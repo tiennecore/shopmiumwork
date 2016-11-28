@@ -10,7 +10,7 @@ class ShopsController < ApplicationController
       format.csv { render text: @shops.to_csv }
 
       if params[:search]
-        @shops = Shop.near(params[:search],15).paginate(:page => params[:page], :per_page => 25)
+        @shops = Shop.near(params[:search],15,:order => "distance").paginate(:page => params[:page], :per_page => 25)
       else
         @shops = Shop.paginate(:page => params[:page], :per_page => 25)
       end
