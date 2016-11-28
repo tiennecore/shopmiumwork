@@ -1,0 +1,30 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Latitude:</strong>
+  <%= @location_info.latitude %>
+</p>
+
+<p>
+  <strong>Longitude:</strong>
+  <%= @location_info.longitude %>
+</p>
+
+<p>
+  <strong>City:</strong>
+  <%= @location_info.city %>
+</p>
+<p>
+  <strong>address:</strong>
+  <%= @location_info.address %>
+</p>
+
+
+
+<ul>
+  <% @shops.each do |shop| %>
+    <li><%= link_to shop.name, shop %>(<%= shop.distance.round(2)%>km)</li>
+  <% end %>
+</ul>
+
+<%= link_to 'Back', shops_path %>

@@ -1,0 +1,766 @@
+chain, name, latitude, longitude, address, city, zip, department, phone, hours, store_id, is_address_computed, is_location_computed, key, ignored, ignore_reason, overload_chain_name, mandatory_coords, country_code
+shopmium,Shopmium Poissy,48.92820769999999,2.0446661,119 rue du General de Gaulle,Poissy,78300,,0130068308,[],,true,true,sfr:01 30 06 83 08,false,,,true,fr
+shopmium,Shopmium Osny,49.0700239,2.062715,c.cial Leclerc chemin des Hayette la Croix Saint Emilion Cellule D36,Osny,95520,,0130170088,[],,true,true,sfr:01 30 17 00 88,false,,,true,fr
+shopmium,Shopmium Rambouillet,48.6440114,1.8232859,74 av General de Gaulle,Rambouillet,78120,,0130462988,[],,true,true,sfr:01 30 46 29 88,false,,,true,fr
+shopmium,Shopmium Plaisir,48.817223,1.949075,c.cial Auchan Grand Plaisir D161 les Vicomtes Local 28,Plaisir,78370,,0130554207,[],,true,true,sfr:01 30 55 42 07,false,,,true,fr
+shopmium,Shopmium Les Clayes Sous Bois,48.82342,1.976374,av Henri Barbusse c.cial Clayes 2,Les Clayes Sous Bois,78340,,0130554621,[],,true,true,sfr:01 30 55 46 21,false,,,true,fr
+shopmium,Shopmium Saint Quentin En Yvelines,48.771652,2.0192,Galerie Ciale Saint Quentin Local 102,Saint Quentin En Yvelines,78180,,0130640108,[],,true,true,sfr:01 30 64 01 08,false,,,true,fr
+shopmium,Shopmium Flins Sur Seine,48.962687,1.87006,c.cial Carrefour 65 chemin Departemental 14,Flins Sur Seine,78410,,0130900752,[],,true,true,sfr:01 30 90 07 52,false,,,true,fr
+shopmium,Shopmium Osny,49.0700239,2.062715,ZAC de l'Oseraie RD 915,Osny,95520,,0134205400,[],,true,true,sfr:01 34 20 54 00,false,,,true,fr
+shopmium,Shopmium Cergy,49.03561699999999,2.060325,c.cial les 3 Fontaines Niveau Bas,Cergy,95000,,0134250446,[],,true,true,sfr:01 34 25 04 46,false,,,true,fr
+shopmium,Shopmium Saint Germain En Laye,48.8971077,2.0902427,10 rue de Pologne,Saint Germain En Laye,78100,,0134510800,[],,true,true,sfr:01 34 51 08 00,false,,,true,fr
+shopmium,Shopmium L'isle Adam,49.112288,2.217872,c.cial Carrefour Local No 104 le Grand Val N922,L'isle Adam,95290,,0134692258,[],,true,true,sfr:01 34 69 22 58,false,,,true,fr
+shopmium,Shopmium Mantes La Jolie,48.9894922,1.7160265,24 rue Gambetta,Mantes La Jolie,78200,,0134979658,[],,true,true,sfr:01 34 97 96 58,false,,,true,fr
+shopmium,Shopmium Maisons Laffitte,48.9469907,2.1463743,23 bis av de Longueil,Maisons Laffitte,78600,,0139125974,[],,true,true,sfr:01 39 12 59 74,false,,,true,fr
+shopmium,Shopmium Sartrouville,48.941106,2.158431,c.cial du Plateau av Robert Schumman,Sartrouville,78500,,0139150346,[],,true,true,sfr:01 39 15 03 46,false,,,true,fr
+shopmium,Shopmium Versailles,48.8068118,2.1312545,9 rue Ducis,Versailles,78000,,0139240808,[],,true,true,sfr:01 39 24 08 08,false,,,true,fr
+shopmium,Shopmium Moisselles,49.04047,2.341543,c.cial Leclerc Moisselles,Moisselles,95570,,0139350859,[],,true,true,sfr:01 39 35 08 59,false,,,true,fr
+shopmium,Shopmium Velizy Villacoublay,48.781857,2.218229,Fnac Galerie Ciale Velizy 2 av de l Europe,Velizy Villacoublay,78140,,0139459412,[],,true,true,sfr:01 39 45 94 12,false,,,true,fr
+shopmium,Shopmium Velizy Villacoublay,48.781857,2.218229,c.cial Velizy 2 av de l'Europe,Velizy Villacoublay,78140,,0139462600,[],,true,true,sfr:01 39 46 26 00,false,,,true,fr
+shopmium,Shopmium Taverny,49.025663,2.221747,c.cial les Portes de Taverny,Taverny,95150,,0139600332,[],,true,true,sfr:01 39 60 03 32,false,,,true,fr
+shopmium,Shopmium Le Chesnay,48.82802,2.1213512,c.cial Parly2/322 av chemin de Gaulle,Le Chesnay,78150,,0139660198,[],,true,true,sfr:01 39 66 01 98,false,,,true,fr
+shopmium,Shopmium Montesson,48.92826600000001,2.143557,c.cial Carrefour 280 av Gabriel Peri,Montesson,78360,,0139680417,[],,true,true,sfr:01 39 68 04 17,false,,,true,fr
+shopmium,Shopmium Chambourcy,48.906272,2.040137,c.cial Carrefou RN 13 route de Mantes Lot 37,Chambourcy,78240,,0139701223,[],,true,true,sfr:01 39 70 12 23,false,,,true,fr
+shopmium,Shopmium Sarcelles,48.9859589,2.3726896,Galerie Ciale Auchan Val de France 200 av de la Division Leclerc,Sarcelles,95200,,0139900971,[],,true,true,sfr:01 39 90 09 71,false,,,true,fr
+shopmium,Shopmium Saint Brice Sous Foret,48.999429,2.356007,c.cial Carrefour St Brice 6 av Robert Schumann,Saint Brice Sous Foret,95350,,0139941010,[],,true,true,sfr:01 39 94 10 10,false,,,true,fr
+shopmium,Shopmium Montigny Les Cormeilles,48.987412,2.187929,167 bis bd Victor Bordier ZA Commercial de la Pate d'Oie,Montigny Les Cormeilles,95370,,0139971956,[],,true,true,sfr:01 39 97 19 56,false,,,true,fr
+shopmium,Shopmium Argenteuil,48.9472096,2.2466847,c.cial Grand Argenteuil ZAC Careme Prenant,Argenteuil,95100,,0139987902,[],,true,true,sfr:01 39 98 79 02,false,,,true,fr
+shopmium,Shopmium Paris,48.8383809,2.3995208,221 av Daumesnil,Paris,75012,,0140010555,[],,true,true,sfr:01 40 01 05 55,false,,,true,fr
+shopmium,Shopmium Saint Ouen,48.905528,2.3316693,75 av Gabriel Peri,Saint Ouen,93400,,0140100987,[],,true,true,sfr:01 40 10 09 87,false,,,true,fr
+shopmium,Shopmium Paris,48.8802506,2.3535949,29 rue de Dunkerque,Paris,75010,,0140165631,[],,true,true,sfr:01 40 16 56 31,false,,,true,fr
+shopmium,Shopmium Paris,48.8615887,2.3480247,c.cial Forum des Halles Niveau 3 rue Pierre Lescot,Paris,75001,,0140390210,[],,true,true,sfr:01 40 39 02 10,false,,,true,fr
+shopmium,Shopmium Paris,48.8821378,2.3004379,140 rue de Courcelles,Paris,75017,,0140540404,[],,true,true,sfr:01 40 54 04 04,false,,,true,fr
+shopmium,Shopmium Paris,48.87836979999999,2.2955347,Fnac 26/30 av des Ternes,Paris,75017,,0140680075,[],,true,true,sfr:01 40 68 00 75,false,,,true,fr
+shopmium,Shopmium Levallois Perret,48.89241790000001,2.2898815,55 rue du President Wilson,Levallois Perret,92300,,0140871818,[],,true,true,sfr:01 40 87 18 18,false,,,true,fr
+shopmium,Shopmium Neuilly Sur Seine,48.8811323,2.2765979,12 rue Madeleine Michelis,Neuilly Sur Seine,92200,,0140880001,[],,true,true,sfr:01 40 88 00 01,false,,,true,fr
+shopmium,Shopmium Puteaux,48.8814721,2.2386563,113 rue Jean Jaures,Puteaux,92800,,0140909219,[],,true,true,sfr:01 40 90 92 19,false,,,true,fr
+shopmium,Shopmium Asnieres,48.9106945,2.2903702,5 rue Pierre Brossolette,Asnieres,92600,,0141110174,[],,true,true,sfr:01 41 11 01 74,false,,,true,fr
+shopmium,Shopmium Arcueil,48.8050778,2.3255643,c.cial Cora Forum 20/6 av Aristide Briand,Arcueil,94110,,0141242517,[],,true,true,sfr:01 41 24 25 17,false,,,true,fr
+shopmium,Shopmium Nogent Sur Marne,48.8370634,2.4838332,92 Grande rue Charles de Gaulle,Nogent Sur Marne,94130,,0141791500,[],,true,true,sfr:01 41 79 15 00,false,,,true,fr
+shopmium,Shopmium Paris,48.8818802,2.3712281,10 av Secretan,Paris,75019,,0142067266,[],,true,true,sfr:01 42 06 72 66,false,,,true,fr
+shopmium,Shopmium Paris,48.8640493,2.3310526,Fnac Forum Halles 1 rue P. Lescot,Paris,75001,,0142339773,[],,true,true,sfr:01 42 33 97 73,false,,,true,fr
+shopmium,Shopmium Colombes,48.9236994,2.2545297,57 rue Saint Denis,Colombes,92700,,0142423835,[],,true,true,sfr:01 42 42 38 35,false,,,true,fr
+shopmium,Shopmium Saint Denis,48.938683,2.356173,1 place Jean Jaures place du Marche Parking Marche,Saint Denis,93200,,0142430919,[],,true,true,sfr:01 42 43 09 19,false,,,true,fr
+shopmium,Shopmium Paris,48.8461849,2.2951486,56 rue du Commerce,Paris,75015,,0142501111,[],,true,true,sfr:01 42 50 11 11,false,,,true,fr
+shopmium,Shopmium Paris,48.869319,2.3325078,43/45 av de l'Opera,Paris,75002,,0142604864,[],,true,true,sfr:01 42 60 48 64,false,,,true,fr
+shopmium,Shopmium Clichy,48.90339909999999,2.3038157,90 bd Jean Jaures,Clichy,92110,,0142701408,[],,true,true,sfr:01 42 70 14 08,false,,,true,fr
+shopmium,Shopmium Paris,48.8597463,2.349123,18 bd Sebastopol,Paris,75004,,0142746688,[],,true,true,sfr:01 42 74 66 88,false,,,true,fr
+shopmium,Shopmium Paris,48.8469448,2.326901,Fnac 136 rue de Rennes,Paris,75006,,0142840535,[],,true,true,sfr:01 42 84 05 35,false,,,true,fr
+shopmium,Shopmium Paris,48.8512409,2.3310514,69 rue de Rennes,Paris,75006,,0142843026,[],,true,true,sfr:01 42 84 30 26,false,,,true,fr
+shopmium,Shopmium Paris La Defense,48.89119,2.238268,c.cial les Quatre Temps,Paris La Defense,92030,,0142912524,[],,true,true,sfr:01 42 91 25 24,false,,,true,fr
+shopmium,Shopmium Noisy Le Grand,48.8496636,2.5674397,10/12 route de Gournay,Noisy Le Grand,93160,,0143050607,[],,true,true,sfr:01 43 05 06 07,false,,,true,fr
+shopmium,Shopmium Paris,48.85177909999999,2.3751306,87 rue du Faubourg St Antoine,Paris,75011,,0143074598,[],,true,true,sfr:01 43 07 45 98,false,,,true,fr
+shopmium,Shopmium Neuilly Sur Marne,48.856898,2.528373,c.cial du Baobab 1/9 av du Mal Foch,Neuilly Sur Marne,93330,,0143085217,[],,true,true,sfr:01 43 08 52 17,false,,,true,fr
+shopmium,Shopmium Livry Gargan,48.9163037,2.5312976,79 /85 av du General Nording,Livry Gargan,93190,,0143305854,[],,true,true,sfr:01 43 30 58 54,false,,,true,fr
+shopmium,Shopmium Paris,48.8431569,2.3221182,c.cial Tour Maine Montparnasse 11 rue de l Arrivee,Paris,75015,,0143350987,[],,true,true,sfr:01 43 35 09 87,false,,,true,fr
+shopmium,Shopmium Paris,48.831795,2.3303855,17 av du General Leclerc,Paris,75014,,0143354419,[],,true,true,sfr:01 43 35 44 19,false,,,true,fr
+shopmium,Shopmium Creteil,48.790367,2.455572,c.cial Creteil Soleil Niveau Rdc,Creteil,94000,,0143392300,[],,true,true,sfr:01 43 39 23 00,false,,,true,fr
+shopmium,Shopmium Paris,48.8399277,2.3824837,Fnac cours Saint Emilion Bercy Village,Paris,75012,,0143411478,[],,true,true,sfr:01 43 41 14 78,false,,,true,fr
+shopmium,Shopmium Paris,48.84719639999999,2.3963035,24 bis place de la Nation,Paris,75012,,0143468057,[],,true,true,sfr:01 43 46 80 57,false,,,true,fr
+shopmium,Shopmium Aubervilliers,48.9022393,2.3732543,c.cial le Millenaire ZAC rue de la Gare,Aubervilliers,93300,,0143523000,[],,true,true,sfr:01 43 52 30 00,false,,,true,fr
+shopmium,Shopmium Montreuil,48.863812,2.448451,c.cial Carrefour Grande Porte Local 25,Montreuil,93100,,0143609226,[],,true,true,sfr:01 43 60 92 26,false,,,true,fr
+shopmium,Shopmium Paris,48.8833292,2.3142281,19 bis rue Legendre place Levis,Paris,75017,,0143805560,[],,true,true,sfr:01 43 80 55 60,false,,,true,fr
+shopmium,Shopmium Sevran,48.94972689999999,2.5215498,c.cial Beausevran route des Petits Ponts,Sevran,93600,,0143830511,[],,true,true,sfr:01 43 83 05 11,false,,,true,fr
+shopmium,Shopmium Ivry Sur Seine,48.813055,2.38822,c.cial Carrefour quai d'Ivry 30 bd Paul Vaillant Couturier,Ivry Sur Seine,94200,,0143907444,[],,true,true,sfr:01 43 90 74 44,false,,,true,fr
+shopmium,Shopmium Vincennes,48.8457052,2.4369988,12 rue du Chateau,Vincennes,94300,,0143984343,[],,true,true,sfr:01 43 98 43 43,false,,,true,fr
+shopmium,Shopmium Paris,48.8796252,2.2899894,72 av des Ternes,Paris,75017,,0144097100,[],,true,true,sfr:01 44 09 71 00,false,,,true,fr
+shopmium,Shopmium Paris,48.8208963,2.3669741,c.cial Massena 13/98 bd Massena,Paris,75013,,0144241444,[],,true,true,sfr:01 44 24 14 44,false,,,true,fr
+shopmium,Shopmium Paris,48.855659,2.3583217,11 rue de Rivoli,Paris,75004,,0144548710,[],,true,true,sfr:01 44 54 87 10,false,,,true,fr
+shopmium,Shopmium Paris,48.86654009999999,2.3640452,7 place de la Republique,Paris,75003,,0144617178,[],,true,true,sfr:01 44 61 71 78,false,,,true,fr
+shopmium,Shopmium Paris,48.8708337,2.3448436,17 bd Poissonniere,Paris,75002,,0145081919,[],,true,true,sfr:01 45 08 19 19,false,,,true,fr
+shopmium,Shopmium Paris,48.8754583,2.3255264,108 rue St Lazare,Paris,75008,,0145220491,[],,true,true,sfr:01 45 22 04 91,false,,,true,fr
+shopmium,Shopmium Paris,48.886546,2.3262813,50 av de Clichy,Paris,75018,,0145221111,[],,true,true,sfr:01 45 22 11 11,false,,,true,fr
+shopmium,Shopmium Paris,48.8577409,2.2799431,16 rue Jean Bologne,Paris,75016,,0145253296,[],,true,true,sfr:01 45 25 32 96,false,,,true,fr
+shopmium,Shopmium Paris,48.87556499999999,2.326875,Fnacpassage Havre 109 rue St Lazare,Paris,75009,,0145265972,[],,true,true,sfr:01 45 26 59 72,false,,,true,fr
+shopmium,Shopmium Paris,48.8376947,2.2967492,314 rue de Vaugirard,Paris,75015,,0145305555,[],,true,true,sfr:01 45 30 55 55,false,,,true,fr
+shopmium,Shopmium Paris,48.829297,2.3226306,127 rue d'Alesia,Paris,75014,,0145411667,[],,true,true,sfr:01 45 41 16 67,false,,,true,fr
+shopmium,Shopmium Paris,48.8495414,2.3231753,79 rue de Sevres,Paris,75006,,0145499510,[],,true,true,sfr:01 45 49 95 10,false,,,true,fr
+shopmium,Shopmium Paris,48.8599961,2.3089035,60 rue Saint Dominique,Paris,75007,,0145502424,[],,true,true,sfr:01 45 50 24 24,false,,,true,fr
+shopmium,Shopmium Paris,48.8718722,2.3176432,Fnac 74 av des Champs Elysees Galerie du Claridge,Paris,75008,,0145639327,[],,true,true,sfr:01 45 63 93 27,false,,,true,fr
+shopmium,Shopmium Paris,48.849681,2.299635,55 av de la Motte Piquet,Paris,75015,,0145669467,[],,true,true,sfr:01 45 66 94 67,false,,,true,fr
+shopmium,Shopmium Paris,48.8489102,2.282289,"Fnac c.cial de Beaugrenelle, 5 rue Linois",Paris,75015,,0145752187,[],,true,true,sfr:01 45 75 21 87,false,,,true,fr
+shopmium,Shopmium Ormesson Sur Marne,48.785694,2.541046,c.cial Carrefour Pince Vent R4,Ormesson Sur Marne,94490,,0145764259,[],,true,true,sfr:01 45 76 42 59,false,,,true,fr
+shopmium,Shopmium Paris,48.8294935,2.3562293,c.cial Italie 2/30 av d'Italie,Paris,75013,,0145881000,[],,true,true,sfr:01 45 88 10 00,false,,,true,fr
+shopmium,Shopmium Paris,48.8294935,2.3562293,Fnac c.cial Italie 2/30 av d'Italie,Paris,75013,,0145885595,[],,true,true,sfr:01 45 88 55 95,false,,,true,fr
+shopmium,Shopmium Issy Les Moulineaux,48.8245306,2.2743419,c.cial Auchan les 3 Moulins,Issy Les Moulineaux,92130,,0146454880,[],,true,true,sfr:01 46 45 48 80,false,,,true,fr
+shopmium,Shopmium Le Kremlin Bicetre,48.81147259999999,2.3619527,c.cial Okabe Auchan av de Fontainebleau,Le Kremlin Bicetre,94270,,0146581215,[],,true,true,sfr:01 46 58 12 15,false,,,true,fr
+shopmium,Shopmium Thiais,48.760344,2.387405,c.cial Carrefour Belle Epine Porte 8,Thiais,94320,,0146870613,[],,true,true,sfr:01 46 87 06 13,false,,,true,fr
+shopmium,Shopmium Thiais,48.75857509999999,2.387658,Fnac 39 bd de la Resistance,Thiais,94320,,0146872770,[],,true,true,sfr:01 46 87 27 70,false,,,true,fr
+shopmium,Shopmium Paris,48.8398719,2.3517709,41 rue Censier,Paris,75005,,0147070809,[],,true,true,sfr:01 47 07 08 09,false,,,true,fr
+shopmium,Shopmium Nanterre,48.8906024,2.1951804,2 rue Maurice Thorez,Nanterre,92000,,0147254898,[],,true,true,sfr:01 47 25 48 98,false,,,true,fr
+shopmium,Shopmium Villeneuve La Garenne,48.92733570000001,2.330376,c.cial Regional Local 150/22 92 bd Gallieni,Villeneuve La Garenne,92390,,0147332101,[],,true,true,sfr:01 47 33 21 01,false,,,true,fr
+shopmium,Shopmium Paris,48.874439,2.3205821,89 bd Haussman,Paris,75008,,0147421043,[],,true,true,sfr:01 47 42 10 43,false,,,true,fr
+shopmium,Shopmium Bois Colombes,48.9150211,2.2749282,63 rue des Bourguignons,Bois Colombes,92270,,0147860200,[],,true,true,sfr:01 47 86 02 00,false,,,true,fr
+shopmium,Shopmium Saint Mande,48.84705630000001,2.4171183,180 av Gallieni,Saint Mande,94160,,0148085506,[],,true,true,sfr:01 48 08 55 06,false,,,true,fr
+shopmium,Shopmium Drancy,48.924298,2.445676,c.cial Carrefour 60 rue St Stenay,Drancy,93700,,0148351868,[],,true,true,sfr:01 48 35 18 68,false,,,true,fr
+shopmium,Shopmium Rosny Sous Bois Cedex,48.88056,2.477311,Fnac Cial Rosny2 av Gal de Ga,Rosny Sous Bois,93117,,0148549398,[],,true,true,sfr:01 48 54 93 98,false,,,true,fr
+shopmium,Shopmium Tremblay En France,48.979952,2.557211,c.cial Aeroville rue des Buissons,Tremblay En France,93290,,0148605277,[],,true,true,sfr:01 48 60 52 77,false,,,true,fr
+shopmium,Shopmium Le Blanc Mesnil,48.941345,2.46436,192 av Charles Floquet c.cial Plein Air Cellule 28,Le Blanc Mesnil,93150,,0148654301,[],,true,true,sfr:01 48 65 43 01,false,,,true,fr
+shopmium,Shopmium Aulnay Sous Bois,48.9562533,2.475722,c.cial Parinor,Aulnay Sous Bois,93600,,0148674428,[],,true,true,sfr:01 48 67 44 28,false,,,true,fr
+shopmium,Shopmium Fontenay Sous Bois,48.851542,2.475907,c.cial Val de Fontenay 12 rue la Marre A Guillaume,Fontenay Sous Bois,94120,,0148763030,[],,true,true,sfr:01 48 76 30 30,false,,,true,fr
+shopmium,Shopmium Saint Maur Des Fosses,48.7978858,2.4845806,100 bd de Creteil,Saint Maur Des Fosses,94100,,0148857230,[],,true,true,sfr:01 48 85 72 30,false,,,true,fr
+shopmium,Shopmium Rosny Sous Bois,48.875661,2.485932,c.cial Rosny 2 av du Gal de Gaulle,Rosny Sous Bois,93110,,0148947044,[],,true,true,sfr:01 48 94 70 44,false,,,true,fr
+shopmium,Shopmium Bagnolet,48.870364,2.4234589,c.cial Bel Est 28 av General de Gaulle,Bagnolet,93170,,0148970022,[],,true,true,sfr:01 48 97 00 22,false,,,true,fr
+shopmium,Shopmium Creteil,48.790367,2.455572,c.cial Creteil Soleil Niveau 1,Creteil,94000,,0149560330,[],,true,true,sfr:01 49 56 03 30,false,,,true,fr
+shopmium,Shopmium Paris La Defense,48.89119,2.238268,c.cial les Quatre Temps,Paris La Defense,92030,,0149676315,[],,true,true,sfr:01 49 67 63 15,false,,,true,fr
+shopmium,Shopmium Arcueil,48.8109291,2.3291471,Galerie Ciale la Vache Noire,Arcueil,94110,,0149859683,[],,true,true,sfr:01 49 85 96 83,false,,,true,fr
+shopmium,Shopmium Paris,48.8932307,2.3405425,110 rue Ordener,Paris,75018,,0153093000,[],,true,true,sfr:01 53 09 30 00,false,,,true,fr
+shopmium,Shopmium Paris,48.8498737,2.3419939,36 bd Saint Michel,Paris,75006,,0153108133,[],,true,true,sfr:01 53 10 81 33,false,,,true,fr
+shopmium,Shopmium Aubervilliers,48.9014524,2.3891744,5 av Jean Jaures,Aubervilliers,93300,,0153561999,[],,true,true,sfr:01 53 56 19 99,false,,,true,fr
+shopmium,Shopmium Paris,48.84812549999999,2.2627561,52 rue d'Auteuil,Paris,75016,,0153922880,[],,true,true,sfr:01 53 92 28 80,false,,,true,fr
+shopmium,Shopmium Boulogne Billancourt,48.8350393,2.2434965,175 bd Jean Jaures,Boulogne Billancourt,92100,,0155602121,[],,true,true,sfr:01 55 60 21 21,false,,,true,fr
+shopmium,Shopmium Paris,48.8685714,2.2829644,111 av Victor Hugo,Paris,75116,,0156281421,[],,true,true,sfr:01 56 28 14 21,false,,,true,fr
+shopmium,Shopmium Charenton Le Pont,48.820707,2.414578,69 rue de Paris,Charenton Le Pont,94220,,0156293800,[],,true,true,sfr:01 56 29 38 00,false,,,true,fr
+shopmium,Shopmium Rueil Malmaison,48.8760719,2.1801489,6 rue Jean le Coz,Rueil Malmaison,92500,,0157694655,[],,true,true,sfr:01 57 69 46 55,false,,,true,fr
+shopmium,Shopmium Noisy Le Grand,48.848579,2.55261,Galerie Ciale Arcades Niveau 1 Local 121 b,Noisy Le Grand,93160,,0158844831,[],,true,true,sfr:01 58 84 48 31,false,,,true,fr
+shopmium,Shopmium Ste Genevieve Des Bois,48.64084159999999,2.325921300000001,20 av de la Croix Blanche ZAC de la Croix Blanche,Ste Genevieve Des Bois,91700,,0160157271,[],,true,true,sfr:01 60 15 72 71,false,,,true,fr
+shopmium,Shopmium Lieusaint,48.62567139999999,2.5546241,c.cial Francilia ZAC du Carre,Lieusaint,77127,,0160180148,[],,true,true,sfr:01 60 18 01 48,false,,,true,fr
+shopmium,Shopmium Meaux,48.9585761,2.8799259,32 rue Grand Cerf,Meaux,77100,,0160243131,[],,true,true,sfr:01 60 24 31 31,false,,,true,fr
+shopmium,Shopmium Pontault Combault,48.801255,2.607598,c.cial Ial Carrefou RN 4 rue Monthety Lot 54,Pontault Combault,77340,,0160290228,[],,true,true,sfr:01 60 29 02 28,false,,,true,fr
+shopmium,Shopmium Serris Marne La Vallee,48.8525347,2.7789085,c.cial Val d'Europe Espace 654/14 cours du Danube,Serris Marne La Vallee,77700,,0160423541,[],,true,true,sfr:01 60 42 35 41,false,,,true,fr
+shopmium,Shopmium Nemours,48.266606,2.696184,1 rue de Paris place de la Republique,Nemours,77140,,0160515888,[],,true,true,sfr:01 60 51 58 88,false,,,true,fr
+shopmium,Shopmium Fontainebleau,48.4080488,2.7037181,77/79 rue Grande,Fontainebleau,77300,,0160700888,[],,true,true,sfr:01 60 70 08 88,false,,,true,fr
+shopmium,Shopmium Evry,48.6304044,2.4278819,c.cial Evry 2 bd de l'Europe,Evry,91000,,0160774000,[],,true,true,sfr:01 60 77 40 00,false,,,true,fr
+shopmium,Shopmium Bretigny Sur Orge,48.611486,2.30604,c.cial Auchan Maison Neuve RD 19,Bretigny Sur Orge,91220,,0160853388,[],,true,true,sfr:01 60 85 33 88,false,,,true,fr
+shopmium,Shopmium Provins,48.5609528,3.3018654,11 place St Ayoul,Provins,77160,,0164014607,[],,true,true,sfr:01 64 01 46 07,false,,,true,fr
+shopmium,Shopmium Coulommiers,48.8132258,3.0837746,6 rue Beaurepaire,Coulommiers,77120,,0164038505,[],,true,true,sfr:01 64 03 85 05,false,,,true,fr
+shopmium,Shopmium Collegien,48.836583,2.672032,c.cial Bay 2/61 Mail Ouest Collegien,Collegien,77090,,0164119997,[],,true,true,sfr:01 64 11 99 97,false,,,true,fr
+shopmium,Shopmium Chelles,48.87753499999999,2.59016,c.cial Chelles 2 av du Gendarme Castermant,Chelles,77500,,0164267157,[],,true,true,sfr:01 64 26 71 57,false,,,true,fr
+shopmium,Shopmium Melun,48.5388732,2.6602902,21 rue Rene Pouteau,Melun,77000,,0164528888,[],,true,true,sfr:01 64 52 88 88,false,,,true,fr
+shopmium,Shopmium Montereau,48.38473399999999,2.956193,Espace Commercial le Breau,Montereau,77130,,0164707000,[],,true,true,sfr:01 64 70 70 00,false,,,true,fr
+shopmium,Shopmium Claye Souilly,48.945023,2.6760918,c.cial Carrefou RN 3,Claye Souilly,77410,,0164774598,[],,true,true,sfr:01 64 77 45 98,false,,,true,fr
+shopmium,Shopmium Villiers En Biere,48.496528,2.604438,c.cial Carrefou RN 7,Villiers En Biere,77190,,0164879004,[],,true,true,sfr:01 64 87 90 04,false,,,true,fr
+shopmium,Shopmium Etampes,48.4344613,2.1641222,11 place Notre Dame,Etampes,91150,,0164949838,[],,true,true,sfr:01 64 94 98 38,false,,,true,fr
+shopmium,Shopmium Boussy Saint Antoine,48.6892489,2.530174,c.cial Cora Val D' Yerres,Boussy Saint Antoine,91800,,0169001042,[],,true,true,sfr:01 69 00 10 42,false,,,true,fr
+shopmium,Shopmium Viry Chatillon,48.666218,2.375902,c.cial Leclerc Moulin Local 12,Viry Chatillon,91170,,0169065399,[],,true,true,sfr:01 69 06 53 99,false,,,true,fr
+shopmium,Shopmium Les Ulis,48.6792779,2.16647,c.cial Regional Ulis 2,Les Ulis,91940,,0169073435,[],,true,true,sfr:01 69 07 34 35,false,,,true,fr
+shopmium,Shopmium Villabe,48.58949399999999,2.454831,c.cial Villabe route de Villoison,Villabe,91100,,0169110607,[],,true,true,sfr:01 69 11 06 07,false,,,true,fr
+shopmium,Shopmium Arpajon,48.5881302,2.2506083,4 rue Gambetta,Arpajon,91290,,0169260268,[],,true,true,sfr:01 69 26 02 68,false,,,true,fr
+shopmium,Shopmium Villebon Sur Yvette,48.686885,2.2278566,Galerie Ciale Auchan 2 chemin Plesse,Villebon Sur Yvette,91140,,0169317450,[],,true,true,sfr:01 69 31 74 50,false,,,true,fr
+shopmium,Shopmium Massy,48.7252674,2.2767076,c.cial Cora Massy av de l'Europe,Massy,91300,,0169322010,[],,true,true,sfr:01 69 32 20 10,false,,,true,fr
+shopmium,Shopmium Vigneux Sur Seine,48.7188689,2.4398913,c.cial Auchan 8 rue Longueraie,Vigneux Sur Seine,91270,,0169523306,[],,true,true,sfr:01 69 52 33 06,false,,,true,fr
+shopmium,Shopmium La Ville Du Bois,48.661072,2.2688259,c.cial Carrefour l'Oree du Bois,La Ville Du Bois,91620,,0169637223,[],,true,true,sfr:01 69 63 72 23,false,,,true,fr
+shopmium,Shopmium Paris,48.8706383,2.3034022,73 av des Champs Elysees,Paris,75008,,0171240000,[],,true,true,sfr:01 71 24 00 00,false,,,true,fr
+shopmium,Shopmium Paris,48.8669666,2.3840849,6 rue de Menilmontant,Paris,75020,,0171757117,[],,true,true,sfr:01 71 75 71 17,false,,,true,fr
+shopmium,Shopmium Rennes,48.0839735,-1.6768353,c.cial Alma rue du Bosphore,Rennes,35200,,0223360808,[],,true,true,sfr:02 23 36 08 08,false,,,true,fr
+shopmium,Shopmium Cesson Sevigne,48.114546,-1.588551,c.cial Cesson Sevigne ZA Rigourdiere,Cesson Sevigne,35510,,0223451551,[],,true,true,sfr:02 23 45 15 51,false,,,true,fr
+shopmium,Shopmium Saint Herblain,47.2237768,-1.6240712,Galerie Commerciale Atlantis 4 place Magellan,Saint Herblain,44800,,0228038588,[],,true,true,sfr:02 28 03 85 88,false,,,true,fr
+shopmium,Shopmium Saint Herblain,47.210335,-1.651444,c.cial Auchan Sillon de Bretagne 8 av Thebaudiere,Saint Herblain,44800,,0228072111,[],,true,true,sfr:02 28 07 21 11,false,,,true,fr
+shopmium,Shopmium Nantes,47.2483735,-1.5134297,c.cial Leclerc Paridis 10 route de Paris,Nantes,44300,,0228237179,[],,true,true,sfr:02 28 23 71 79,false,,,true,fr
+shopmium,Shopmium Landerneau,48.4491974,-4.2544061,52 quai de Leon,Landerneau,29800,,0229623606,[],,true,true,sfr:02 29 62 36 06,false,,,true,fr
+shopmium,Shopmium Caen,49.1824895,-0.3638258,10 rue de Strasbourg,Caen,14000,,0231278888,[],,true,true,sfr:02 31 27 88 88,false,,,true,fr
+shopmium,Shopmium Mondeville,49.1700941,-0.3227053,81 route de Paris,Mondeville,14120,,0231358888,[],,true,true,sfr:02 31 35 88 88,false,,,true,fr
+shopmium,Shopmium Herouville,49.100706,2.128767,c.cial Carrefour Saint Clair,Herouville,95300,,0231468820,[],,true,true,sfr:02 31 46 88 20,false,,,true,fr
+shopmium,Shopmium Bayeux,49.2777641,-0.7053925999999999,31/33 rue Saint Malo,Bayeux,14400,,0231516888,[],,true,true,sfr:02 31 51 68 88,false,,,true,fr
+shopmium,Shopmium Caen,49.182863,-0.370679,c.cial Carrefour route de Douvres,Caen,14000,,0231536026,[],,true,true,sfr:02 31 53 60 26,false,,,true,fr
+shopmium,Shopmium Lisieux,49.1451714,0.2260944,14 rue Pont Mortain,Lisieux,14100,,0231616888,[],,true,true,sfr:02 31 61 68 88,false,,,true,fr
+shopmium,Shopmium Vire,48.8388828,-0.8889189,6 rue Andre Halbout,Vire,14500,,0231695888,[],,true,true,sfr:02 31 69 58 88,false,,,true,fr
+shopmium,Shopmium Mondeville,49.1674521,-0.3160948,c.cial Mondeville 2 route de Paris,Mondeville,14120,,0231832212,[],,true,true,sfr:02 31 83 22 12,false,,,true,fr
+shopmium,Shopmium Trouville,49.36628899999999,0.08280799999999999,2 rue Amiral Maigret place de l'Hotel de Ville,Trouville,14360,,0231985882,[],,true,true,sfr:02 31 98 58 82,false,,,true,fr
+shopmium,Shopmium Rouen,49.4410704,1.0928454,33 rue du Gros Horloge,Rouen,76000,,0232104888,[],,true,true,sfr:02 32 10 48 88,false,,,true,fr
+shopmium,Shopmium Dieppe,49.9265463,1.0773513,82 Grande Rue,Dieppe,76200,,0232144188,[],,true,true,sfr:02 32 14 41 88,false,,,true,fr
+shopmium,Shopmium Louviers,49.2114829,1.1692053,9 place de la Halle,Louviers,27400,,0232256888,[],,true,true,sfr:02 32 25 68 88,false,,,true,fr
+shopmium,Shopmium Pont Audemer,49.3559807,0.5154283,30 rue de la Republique,Pont Audemer,27500,,0232412860,[],,true,true,sfr:02 32 41 28 60,false,,,true,fr
+shopmium,Shopmium Bernay,49.0901259,0.5970679999999999,38 rue Thiers,Bernay,27300,,0232462335,[],,true,true,sfr:02 32 46 23 35,false,,,true,fr
+shopmium,Shopmium Gisors,49.2798952,1.7783608,14 rue du General de Gaulle,Gisors,27140,,0232552270,[],,true,true,sfr:02 32 55 22 70,false,,,true,fr
+shopmium,Shopmium Evreux,49.02582899999999,1.1484127,9 rue Chartraine,Evreux,27000,,0232628918,[],,true,true,sfr:02 32 62 89 18,false,,,true,fr
+shopmium,Shopmium Vernon,49.091716,1.4836487,8 rue des Huilliers,Vernon,27200,,0232712888,[],,true,true,sfr:02 32 71 28 88,false,,,true,fr
+shopmium,Shopmium Le Havre,49.4941094,0.1093619,70 place de l'Hotel de Ville,Le Havre,76600,,0232748738,[],,true,true,sfr:02 32 74 87 38,false,,,true,fr
+shopmium,Shopmium Rouen,49.4464909,1.0976001,bd Ferdinand de Lesseps c.cial Docks 76,Rouen,76000,,0232833000,[],,true,true,sfr:02 32 83 30 00,false,,,true,fr
+shopmium,Shopmium Elbeuf,49.289355,1.0053625,60 rue des Martyrs,Elbeuf,76500,,0232964888,[],,true,true,sfr:02 32 96 48 88,false,,,true,fr
+shopmium,Shopmium Conde Sur Sarthe,48.4352658,0.051705,c.cial Carrefour rue d Alencon,Conde Sur Sarthe,61250,,0233320705,[],,true,true,sfr:02 33 32 07 05,false,,,true,fr
+shopmium,Shopmium Argentan,48.7428043,-0.0232032,4 rue de la Chaussee,Argentan,61200,,0233358689,[],,true,true,sfr:02 33 35 86 89,false,,,true,fr
+shopmium,Shopmium La Glacerie,49.6108,-1.6008,c.cial Auchan Cotentin,La Glacerie,50470,,0233439993,[],,true,true,sfr:02 33 43 99 93,false,,,true,fr
+shopmium,Shopmium Flers,48.75020600000001,-0.5658586999999999,2 rue de Paris,Flers,61100,,0233666761,[],,true,true,sfr:02 33 66 67 61,false,,,true,fr
+shopmium,Shopmium Saint Lo,49.1149377,-1.0897055,3 rue du Marechal Leclerc,Saint Lo,50000,,0233725888,[],,true,true,sfr:02 33 72 58 88,false,,,true,fr
+shopmium,Shopmium Cherbourg,49.6385947,-1.6241861,39 rue des Portes,Cherbourg,50100,,0233781588,[],,true,true,sfr:02 33 78 15 88,false,,,true,fr
+shopmium,Shopmium Arconnay,48.406629,0.087366,c.cial Leclerc Cellule N°19 rue Maine Normandie,Arconnay,72610,,0233802688,[],,true,true,sfr:02 33 80 26 88,false,,,true,fr
+shopmium,Shopmium Alencon,48.4295689,0.0882005,63 Grande Rue,Alencon,61000,,0233804888,[],,true,true,sfr:02 33 80 48 88,false,,,true,fr
+shopmium,Shopmium L'aigle,48.7639001,0.6287339,8 place de la Halle,L'aigle,61300,,0233845688,[],,true,true,sfr:02 33 84 56 88,false,,,true,fr
+shopmium,Shopmium Avranches,48.6848044,-1.35943,37 rue de la Constitution,Avranches,50300,,0233895888,[],,true,true,sfr:02 33 89 58 88,false,,,true,fr
+shopmium,Shopmium Granville,48.8373833,-1.5939511,69 rue de Couraye,Granville,50400,,0233912935,[],,true,true,sfr:02 33 91 29 35,false,,,true,fr
+shopmium,Shopmium Rouen,49.4339688,1.0775888,c.cial St Sever,Rouen,76100,,0235031999,[],,true,true,sfr:02 35 03 19 99,false,,,true,fr
+shopmium,Shopmium Montivilliers,49.542538,0.19336,c.cial le Grand Havre la Lezarde,Montivilliers,76290,,0235135888,[],,true,true,sfr:02 35 13 58 88,false,,,true,fr
+shopmium,Shopmium Le Havre,49.476996,0.1639479,c.cial Docks Vauban,Le Havre,76600,,0235260614,[],,true,true,sfr:02 35 26 06 14,false,,,true,fr
+shopmium,Shopmium Fecamp,49.7569592,0.3784483,45 rue Jacques Huet,Fecamp,76400,,0235272112,[],,true,true,sfr:02 35 27 21 12,false,,,true,fr
+shopmium,Shopmium Gruchet Le Valasse,49.55745899999999,0.484084,c.cial Carrefour route de Lillebonne,Gruchet Le Valasse,76210,,0235319096,[],,true,true,sfr:02 35 31 90 96,false,,,true,fr
+shopmium,Shopmium Gonfreville L'orcher,49.502579,0.233079,c.cial Oceane Local 40 bis,Gonfreville L'orcher,76700,,0235422868,[],,true,true,sfr:02 35 42 28 68,false,,,true,fr
+shopmium,Shopmium Le Havre,49.49089710000001,0.1044067,55 place des Halles Centrales,Le Havre,76600,,0235434400,[],,true,true,sfr:02 35 43 44 00,false,,,true,fr
+shopmium,Shopmium Le Havre,49.5171324,0.118896,c.cial Grand Cap av du Bois Au Coq,Le Havre,76620,,0235540504,[],,true,true,sfr:02 35 54 05 04,false,,,true,fr
+shopmium,Shopmium Mont Saint Aignan,49.459778,1.079798,c.cial Carrefour ZAC de la Vatine,Mont Saint Aignan,76130,,0235612424,[],,true,true,sfr:02 35 61 24 24,false,,,true,fr
+shopmium,Shopmium Tourville La Riviere,49.328117,1.105122,c.cial Carrefour 20 rue D. Casanova,Tourville La Riviere,76410,,0235782828,[],,true,true,sfr:02 35 78 28 28,false,,,true,fr
+shopmium,Shopmium Dieppe,49.922992,1.077483,c.cial Auchan Belvedere,Dieppe,76200,,0235840288,[],,true,true,sfr:02 35 84 02 88,false,,,true,fr
+shopmium,Shopmium Barentin,49.543453,0.9581299999999999,c.cial Carrefou RN 13 Mesnil Roux,Barentin,76360,,0235914788,[],,true,true,sfr:02 35 91 47 88,false,,,true,fr
+shopmium,Shopmium Yvetot,49.6169978,0.7554647,14 place de l Hotel de Ville,Yvetot,76190,,0235953326,[],,true,true,sfr:02 35 95 33 26,false,,,true,fr
+shopmium,Shopmium Chartres,48.4454159,1.4861753,11 rue Noel Ballay,Chartres,28000,,0237365888,[],,true,true,sfr:02 37 36 58 88,false,,,true,fr
+shopmium,Shopmium Vernouillet,48.7197957,1.3649269,1 av Francois Mitterand,Vernouillet,28500,,0237385888,[],,true,true,sfr:02 37 38 58 88,false,,,true,fr
+shopmium,Shopmium Chateaudun,48.070193,1.3282167,5 place du 18 Octobre,Chateaudun,28200,,0237445988,[],,true,true,sfr:02 37 44 59 88,false,,,true,fr
+shopmium,Shopmium Nogent Le Rotrou,48.3222566,0.821805,28 rue Villette Gate,Nogent Le Rotrou,28400,,0237527600,[],,true,true,sfr:02 37 52 76 00,false,,,true,fr
+shopmium,Shopmium Dreux,48.7355935,1.3671449,2 Grande rue Maurice Viollette,Dreux,28100,,0237625888,[],,true,true,sfr:02 37 62 58 88,false,,,true,fr
+shopmium,Shopmium Barjouville,48.4100309,1.476677,ZA de la Torche,Barjouville,28630,,0237915888,[],,true,true,sfr:02 37 91 58 88,false,,,true,fr
+shopmium,Shopmium Orleans,47.829038,1.926739,rue Brillat Savarin Zone Expo Sud,Orleans,45100,,0238248080,[],,true,true,sfr:02 38 24 80 80,false,,,true,fr
+shopmium,Shopmium Gien,47.6888442,2.6218263,c.cial Auchan 1 rue Fabrique,Gien,45500,,0238270231,[],,true,true,sfr:02 38 27 02 31,false,,,true,fr
+shopmium,Shopmium Pithiviers,48.1760995,2.2718934,14 place du Martroi rue de l'Eglise,Pithiviers,45300,,0238305888,[],,true,true,sfr:02 38 30 58 88,false,,,true,fr
+shopmium,Shopmium Saint Jean De La Ruelle,47.9042472,1.8652426,c.cial Auchan les 3 Fontaines av Mendes France,Saint Jean De La Ruelle,45140,,0238425888,[],,true,true,sfr:02 38 42 58 88,false,,,true,fr
+shopmium,Shopmium Checy,47.891459,2.025287,c.cial la Guignarde ZAC N 60,Checy,45430,,0238466022,[],,true,true,sfr:02 38 46 60 22,false,,,true,fr
+shopmium,Shopmium Saran,47.94791,1.880734,c.cial Carrefour Saran RN 20,Saran,45770,,0238659275,[],,true,true,sfr:02 38 65 92 75,false,,,true,fr
+shopmium,Shopmium Orleans,47.9044535,1.9048958,16 rue de la Republique,Orleans,45000,,0238747800,[],,true,true,sfr:02 38 74 78 00,false,,,true,fr
+shopmium,Shopmium Montargis,47.99777049999999,2.7330223,11 rue Doree,Montargis,45200,,0238895888,[],,true,true,sfr:02 38 89 58 88,false,,,true,fr
+shopmium,Shopmium Basse Goulaine,47.215267,-1.466088,c.cial Leclerc les Chalonges Pole Sud,Basse Goulaine,44115,,0240032850,[],,true,true,sfr:02 40 03 28 50,false,,,true,fr
+shopmium,Shopmium Nantes,47.1925643,-1.4941902,c.cial Auchan St Sebastien 2 rue Pierre Mendes France,Nantes,44230,,0240044971,[],,true,true,sfr:02 40 04 49 71,false,,,true,fr
+shopmium,Shopmium Nantes,47.2156226,-1.5542757,21/23 rue de la Marne,Nantes,44000,,0240209988,[],,true,true,sfr:02 40 20 99 88,false,,,true,fr
+shopmium,Shopmium La Baule,47.2861117,-2.3921412,139 av du General de Gaulle,La Baule,44500,,0240240525,[],,true,true,sfr:02 40 24 05 25,false,,,true,fr
+shopmium,Shopmium Nantes,47.20146769999999,-1.5411258,c.cial Carrefou RN antes Beaulieu,Nantes,44200,,0240355288,[],,true,true,sfr:02 40 35 52 88,false,,,true,fr
+shopmium,Shopmium Saint Nazaire,47.2777576,-2.2127802,53 av de la Republique,Saint Nazaire,44600,,0240534701,[],,true,true,sfr:02 40 53 47 01,false,,,true,fr
+shopmium,Shopmium Chateaubriant,47.7178939,-1.3769925,3 place de la Motte,Chateaubriant,44110,,0240810767,[],,true,true,sfr:02 40 81 07 67,false,,,true,fr
+shopmium,Shopmium Pornic,47.1253228,-2.1252478,c.cial de l'Europe Leclerc 1 rue du Traite d'Amsterdam,Pornic,44210,,0240822288,[],,true,true,sfr:02 40 82 22 88,false,,,true,fr
+shopmium,Shopmium Saint Nazaire Trignac,47.3012757,-2.2122538,c.cial Auchan Fontaine Au Brun,Saint Nazaire Trignac,44570,,0240886033,[],,true,true,sfr:02 40 88 60 33,false,,,true,fr
+shopmium,Shopmium Ancenis,47.3727727,-1.1922974,325 bd de la Prairie,Ancenis,44150,,0240980404,[],,true,true,sfr:02 40 98 04 04,false,,,true,fr
+shopmium,Shopmium Angers,47.4702065,-0.5502408,12 rue d'Alsace,Angers,49100,,0241205888,[],,true,true,sfr:02 41 20 58 88,false,,,true,fr
+shopmium,Shopmium Angers,47.4682025,-0.5522092,54 rue Saint Aubin,Angers,49100,,0241245888,[],,true,true,sfr:02 41 24 58 88,false,,,true,fr
+shopmium,Shopmium Angers,47.4671603,-0.5226288,c.cial Espace Anjou 75 rue Montaigne,Angers,49000,,0241252830,[],,true,true,sfr:02 41 25 28 30,false,,,true,fr
+shopmium,Shopmium Cholet,47.0617738,-0.880089,118 rue Nationale place Travot,Cholet,49300,,0241290750,[],,true,true,sfr:02 41 29 07 50,false,,,true,fr
+shopmium,Shopmium Cholet,47.0613811,-0.8616326999999999,c.cial Carrefour rue d'Anjou,Cholet,49300,,0241304663,[],,true,true,sfr:02 41 30 46 63,false,,,true,fr
+shopmium,Shopmium Angers,47.478419,-0.5631659999999999,c.cial Grand Maine rue du G. Launay,Angers,49100,,0241368414,[],,true,true,sfr:02 41 36 84 14,false,,,true,fr
+shopmium,Shopmium Saumur,47.2608785,-0.0780331,23 place Bilange,Saumur,49400,,0241401718,[],,true,true,sfr:02 41 40 17 18,false,,,true,fr
+shopmium,Shopmium Saumur,47.260135,-0.08089299999999999,c.cial Leclerc 51 bd Mar de Lattre de Tassigny,Saumur,49400,,0241407392,[],,true,true,sfr:02 41 40 73 92,false,,,true,fr
+shopmium,Shopmium Angers,47.4800639,-0.5439045,1 av Besnardiere,Angers,49100,,0241434548,[],,true,true,sfr:02 41 43 45 48,false,,,true,fr
+shopmium,Shopmium Angers,47.491878,-0.5478767,c.cial Carrefour St Serge 3 bd Ramon,Angers,49100,,0241608847,[],,true,true,sfr:02 41 60 88 47,false,,,true,fr
+shopmium,Shopmium Cholet,47.059407,-0.879787,c.cial Geant route Sables d'Olonnes,Cholet,49300,,0241706828,[],,true,true,sfr:02 41 70 68 28,false,,,true,fr
+shopmium,Shopmium La Chapelle Saint Aubin,48.0397583,0.1526337,Galerie Cciale Auchan la Chapelle av du Mans,La Chapelle Saint Aubin,72650,,0243203870,[],,true,true,sfr:02 43 20 38 70,false,,,true,fr
+shopmium,Shopmium Le Mans,48.00543589999999,0.1984822,28 rue Marchande,Le Mans,72100,,0243235888,[],,true,true,sfr:02 43 23 58 88,false,,,true,fr
+shopmium,Shopmium Allonnes,47.9660251,0.1349562,Galerie Ciale Leclerc Medicis route de la Suze,Allonnes,72700,,0243242421,[],,true,true,sfr:02 43 24 24 21,false,,,true,fr
+shopmium,Shopmium Laval,48.0783237,-0.8002513,c.cial Carrefour la Mayenne 43 av de Lattre de Tassigny,Laval,53000,,0243261321,[],,true,true,sfr:02 43 26 13 21,false,,,true,fr
+shopmium,Shopmium Mayenne,48.3028469,-0.6202335,36 place Georges Clemenceau,Mayenne,53100,,0243321909,[],,true,true,sfr:02 43 32 19 09,false,,,true,fr
+shopmium,Shopmium La Fleche,47.6995778,-0.0728188,41 Grande Rue,La Fleche,72200,,0243452323,[],,true,true,sfr:02 43 45 23 23,false,,,true,fr
+shopmium,Shopmium Laval,48.070747,-0.7748463999999999,13 rue du General de Gaulle,Laval,53000,,0243491762,[],,true,true,sfr:02 43 49 17 62,false,,,true,fr
+shopmium,Shopmium Le Mans,48.0033666,0.1958014,2 rue du Docteur Leroy,Le Mans,72100,,0243521688,[],,true,true,sfr:02 43 52 16 88,false,,,true,fr
+shopmium,Shopmium Le Mans,47.9724823,0.21972,c.cial Carrefour Centre Sud 309 av Georges Durand,Le Mans,72100,,0243789561,[],,true,true,sfr:02 43 78 95 61,false,,,true,fr
+shopmium,Shopmium Le Mans,48.019514,0.223441,c.cial Leclerc les Fontenelles route de Bonnetable,Le Mans,72100,,0243814460,[],,true,true,sfr:02 43 81 44 60,false,,,true,fr
+shopmium,Shopmium Tours,47.366362,0.6779663,c.cial l'Heure Tranquille av Marcel Merieux quartier des 2,Tours,37200,,0247219222,[],,true,true,sfr:02 47 21 92 22,false,,,true,fr
+shopmium,Shopmium Amboise,47.41168889999999,0.9825035999999999,48 rue Nationale,Amboise,37400,,0247232324,[],,true,true,sfr:02 47 23 23 24,false,,,true,fr
+shopmium,Shopmium Chambray Les Tours,47.3376625,0.7013087,c.cial Auchan ZAC la Vrillonnerie,Chambray Les Tours,37170,,0247285116,[],,true,true,sfr:02 47 28 51 16,false,,,true,fr
+shopmium,Shopmium Tours,47.3931551,0.6873444,47 rue Nationale,Tours,37000,,0247315888,[],,true,true,sfr:02 47 31 58 88,false,,,true,fr
+shopmium,Shopmium Tours,47.3891874,0.6901229999999999,3 rue de Bordeaux,Tours,37000,,0247349833,[],,true,true,sfr:02 47 34 98 33,false,,,true,fr
+shopmium,Shopmium St Pierre Des Corps,47.3803651,0.7151674,c.cial Carrefour av Jacques Duclos,St Pierre Des Corps,37700,,0247444509,[],,true,true,sfr:02 47 44 45 09,false,,,true,fr
+shopmium,Shopmium Tours,47.4266024,0.7012881999999999,c.cial Auchan Petite Arche 31 rue Gustave Eiffel,Tours,37100,,0247516224,[],,true,true,sfr:02 47 51 62 24,false,,,true,fr
+shopmium,Shopmium Bourges,47.0919114,2.4222674,32 Chaussee de Chappe,Bourges,18000,,0248025555,[],,true,true,sfr:02 48 02 55 55,false,,,true,fr
+shopmium,Shopmium Bourges,47.08542860000001,2.3940183,7 rue du Commerce,Bourges,18000,,0248235888,[],,true,true,sfr:02 48 23 58 88,false,,,true,fr
+shopmium,Shopmium Fontenay Le Comte,46.4650726,-0.8042739,18 rue de la Republique,Fontenay Le Comte,85200,,0251005554,[],,true,true,sfr:02 51 00 55 54,false,,,true,fr
+shopmium,Shopmium St Gilles Croix De Vie,46.6944089,-1.9333847,37 quai du Port Fidele,St Gilles Croix De Vie,85800,,0251269580,[],,true,true,sfr:02 51 26 95 80,false,,,true,fr
+shopmium,Shopmium Lucon,46.4555105,-1.1666709,10 rue Georges Clemenceau,Lucon,85400,,0251289994,[],,true,true,sfr:02 51 28 99 94,false,,,true,fr
+shopmium,Shopmium Challans,46.844828,-1.880412,122 bis rue Carnot lieu-dit la Juisiere,Challans,85300,,0251351818,[],,true,true,sfr:02 51 35 18 18,false,,,true,fr
+shopmium,Shopmium La Roche Sur Yon,46.670511,-1.426442,ZAC Roche Sud Rond Point de Tournefou,La Roche Sur Yon,85000,,0251414217,[],,true,true,sfr:02 51 41 42 17,false,,,true,fr
+shopmium,Shopmium La Roche Sur Yon,46.670511,-1.426442,c.cial les Flaneries route de Nantes,La Roche Sur Yon,85000,,0251473099,[],,true,true,sfr:02 51 47 30 99,false,,,true,fr
+shopmium,Shopmium La Roche Sur Yon,46.6699183,-1.430279,22 rue Georges Clemenceau,La Roche Sur Yon,85000,,0251478988,[],,true,true,sfr:02 51 47 89 88,false,,,true,fr
+shopmium,Shopmium Reze,47.1745467,-1.5475003,c.cial Atout Sud 1 rue de l'Ordronneau,Reze,44400,,0251700805,[],,true,true,sfr:02 51 70 08 05,false,,,true,fr
+shopmium,Shopmium Saint Nazaire,47.25727550000001,-2.2601731,c.cial Geant Oceanis route de la Cote d Amour,Saint Nazaire,44600,,0251766463,[],,true,true,sfr:02 51 76 64 63,false,,,true,fr
+shopmium,Shopmium Nantes,47.2185047,-1.5446583,Fnac Palais de la Bourse,Nantes,44000,,0251835701,[],,true,true,sfr:02 51 83 57 01,false,,,true,fr
+shopmium,Shopmium Chateau D'olonne,46.50436,-1.738692,c.cial Geant Cellule 15,Chateau D'olonne,85180,,0251908384,[],,true,true,sfr:02 51 90 83 84,false,,,true,fr
+shopmium,Shopmium Les Herbiers,46.86919,-1.013388,19 place des Droits de l'Homme,Les Herbiers,85500,,0251929838,[],,true,true,sfr:02 51 92 98 38,false,,,true,fr
+shopmium,Shopmium Chateauroux,46.8114332,1.6933973,26 sq John Perse,Chateauroux,36000,,0254080180,[],,true,true,sfr:02 54 08 01 80,false,,,true,fr
+shopmium,Shopmium Chateauroux,46.8070039,1.6967552,c.cial Carrefour 47 rue Pierre Gaultier,Chateauroux,36000,,0254270173,[],,true,true,sfr:02 54 27 01 73,false,,,true,fr
+shopmium,Shopmium Vineuil,47.581201,1.375111,c.cial Auchan,Vineuil,41350,,0254420373,[],,true,true,sfr:02 54 42 03 73,false,,,true,fr
+shopmium,Shopmium Blois,47.5869753,1.3328851,61 rue du Commerce,Blois,41000,,0254565888,[],,true,true,sfr:02 54 56 58 88,false,,,true,fr
+shopmium,Shopmium Vendome,47.7921421,1.0680913,7 rue du Change,Vendome,41100,,0254675888,[],,true,true,sfr:02 54 67 58 88,false,,,true,fr
+shopmium,Shopmium Romorantin Lanthenay,47.35997500000001,1.7442476,61 rue Georges Clemenceau,Romorantin Lanthenay,41200,,0254760866,[],,true,true,sfr:02 54 76 08 66,false,,,true,fr
+shopmium,Shopmium Lannion,48.732084,-3.459144,Galerie c.cial Geant route de Perros Guirec,Lannion,22300,,0296141608,[],,true,true,sfr:02 96 14 16 08,false,,,true,fr
+shopmium,Shopmium Lannion,48.7322673,-3.4616396,14 quai de l'Aiguillon,Lannion,22300,,0296464444,[],,true,true,sfr:02 96 46 44 44,false,,,true,fr
+shopmium,Shopmium Langueux,48.4933977,-2.7234979,c.cial Carrefou RN 12,Langueux,22360,,0296522052,[],,true,true,sfr:02 96 52 20 52,false,,,true,fr
+shopmium,Shopmium Saint Brieuc,48.5140847,-2.7599246,1 rue Saint Guillaume,Saint Brieuc,22000,,0296604460,[],,true,true,sfr:02 96 60 44 60,false,,,true,fr
+shopmium,Shopmium Plerin,48.534928,-2.770404,c.cial du Plateau Galerie Marchande Espace Sfr,Plerin,22190,,0296746988,[],,true,true,sfr:02 96 74 69 88,false,,,true,fr
+shopmium,Shopmium Dinan,48.4531962,-2.0452137,09 rue de la Ferronnerie,Dinan,22100,,0296875977,[],,true,true,sfr:02 96 87 59 77,false,,,true,fr
+shopmium,Shopmium Vannes,47.6624259,-2.7894413,Fnac Vannes Kerlann 46 rue Theophraste Renaudot,Vannes,56000,,0297010918,[],,true,true,sfr:02 97 01 09 18,false,,,true,fr
+shopmium,Shopmium Pontivy,48.0659423,-2.9659844,66 rue Nationale,Pontivy,56300,,0297253231,[],,true,true,sfr:02 97 25 32 31,false,,,true,fr
+shopmium,Shopmium Vannes,47.658236,-2.760847,1 rue Aristide Boussicaut Bat A Espace Copernic Ii Parking Fly,Vannes,56000,,0297499519,[],,true,true,sfr:02 97 49 95 19,false,,,true,fr
+shopmium,Shopmium Auray,47.6661302,-2.9841097,41 place de la Republique,Auray,56400,,0297563897,[],,true,true,sfr:02 97 56 38 97,false,,,true,fr
+shopmium,Shopmium Ploermel,47.92925400000001,-2.396846,11 place de la Mennais,Ploermel,56800,,0297720788,[],,true,true,sfr:02 97 72 07 88,false,,,true,fr
+shopmium,Shopmium Lanester,47.76349399999999,-3.347354,c.cial Geant route d'Hennebont,Lanester,56600,,0297814382,[],,true,true,sfr:02 97 81 43 82,false,,,true,fr
+shopmium,Shopmium Lorient,47.748273,-3.3638738,1 av de Faouedic place Aristide Briand,Lorient,56100,,0297844688,[],,true,true,sfr:02 97 84 46 88,false,,,true,fr
+shopmium,Shopmium Morlaix,48.577613,-3.828228,c.cial Geant Bretagnia,Morlaix,29600,,0298151491,[],,true,true,sfr:02 98 15 14 91,false,,,true,fr
+shopmium,Shopmium Brest,48.3709111,-4.5886193,c.cial Coat Ar Gueven rue Jean Jaures,Brest,29280,,0298331020,[],,true,true,sfr:02 98 33 10 20,false,,,true,fr
+shopmium,Shopmium Brest,48.38793709999999,-4.4887997,75 rue de Siam,Brest,29200,,0298339388,[],,true,true,sfr:02 98 33 93 88,false,,,true,fr
+shopmium,Shopmium Brest,48.390394,-4.486076,c.cial GÉant No B9/29 rue du Gouesnou,Brest,29200,,0298422024,[],,true,true,sfr:02 98 42 20 24,false,,,true,fr
+shopmium,Shopmium Brest,48.3871668,-4.5258687,Galerie Commerciale Brest Iroise 126 bd de Plymouth,Brest,29200,,0298456372,[],,true,true,sfr:02 98 45 63 72,false,,,true,fr
+shopmium,Shopmium Brest,48.3912797,-4.4843512,9 rue Jean Jaures,Brest,29200,,0298462009,[],,true,true,sfr:02 98 46 20 09,false,,,true,fr
+shopmium,Shopmium Quimper,47.997542,-4.097899,c.cial Carrefour Pont de Poulguinan Zone Poulguinan Kerdrezec,Quimper,29000,,0298521669,[],,true,true,sfr:02 98 52 16 69,false,,,true,fr
+shopmium,Shopmium Concarneau,47.8717535,-3.9182134,6 place Jean Jaures,Concarneau,29900,,0298605188,[],,true,true,sfr:02 98 60 51 88,false,,,true,fr
+shopmium,Shopmium Morlaix,48.577613,-3.828228,Galerie Commerciale Leclerc Zav la Boissiere,Morlaix,29600,,0298638588,[],,true,true,sfr:02 98 63 85 88,false,,,true,fr
+shopmium,Shopmium Quimper,47.9574006,-4.0824525,c.cial Geant route de Benodet,Quimper,29000,,0298744372,[],,true,true,sfr:02 98 74 43 72,false,,,true,fr
+shopmium,Shopmium Quimper,47.9956429,-4.103411299999999,18 place Saint Corentin,Quimper,29000,,0298980188,[],,true,true,sfr:02 98 98 01 88,false,,,true,fr
+shopmium,Shopmium Carhaix,48.2767262,-3.5706956,3 rue des Martyrs,Carhaix,29270,,0298991492,[],,true,true,sfr:02 98 99 14 92,false,,,true,fr
+shopmium,Shopmium Saint Gregoire,48.153561,-1.683146,Galerie Ciale Grand Quartier,Saint Gregoire,35760,,0299238827,[],,true,true,sfr:02 99 23 88 27,false,,,true,fr
+shopmium,Shopmium Pace,48.14669800000001,-1.77276,c.cial Cora ZAC la Giraudais Opera,Pace,35740,,0299602895,[],,true,true,sfr:02 99 60 28 95,false,,,true,fr
+shopmium,Shopmium Rennes,48.130088,-1.633627,c.cial les Longschamps,Rennes,35700,,0299639338,[],,true,true,sfr:02 99 63 93 38,false,,,true,fr
+shopmium,Shopmium Redon,47.6489746,-2.0850553,48 Grande Rue,Redon,35600,,0299705888,[],,true,true,sfr:02 99 70 58 88,false,,,true,fr
+shopmium,Shopmium Vitre,48.12435259999999,-1.2087404,29 place de la Republique,Vitre,35500,,0299753874,[],,true,true,sfr:02 99 75 38 74,false,,,true,fr
+shopmium,Shopmium Rennes,48.1081036,-1.6803252,20 rue de Nemours,Rennes,35000,,0299782010,[],,true,true,sfr:02 99 78 20 10,false,,,true,fr
+shopmium,Shopmium Rennes,48.1126951,-1.6795334,3 rue le Bastard,Rennes,35000,,0299788610,[],,true,true,sfr:02 99 78 86 10,false,,,true,fr
+shopmium,Shopmium St Malo,48.6354264,-2.0140418,37 rue Ville Pepin,St Malo,35400,,0299812930,[],,true,true,sfr:02 99 81 29 30,false,,,true,fr
+shopmium,Shopmium Saint Malo,48.625117,-1.996264,2 imp de la Haute Futaie ZAC Carrefour la Madeleine,Saint Malo,35400,,0299814301,[],,true,true,sfr:02 99 81 43 01,false,,,true,fr
+shopmium,Shopmium Fougeres,48.3527219,-1.1997098,11 bd Jean Jaures,Fougeres,35300,,0299948420,[],,true,true,sfr:02 99 94 84 20,false,,,true,fr
+shopmium,Shopmium Reims,49.258329,4.031696,1 rue En Memoire des Harkis Actipole de la Neuv,Reims,51100,,0310571800,[],,true,true,sfr:03 10 57 18 00,false,,,true,fr
+shopmium,Shopmium Leers,50.67977399999999,3.247033,c.cial Auchan Leers av Europe Lot 51,Leers,59115,,0320024695,[],,true,true,sfr:03 20 02 46 95,false,,,true,fr
+shopmium,Shopmium Villeneuve D'ascq,50.6169167,3.1333136,35 bd de Valmy,Villeneuve D'ascq,59650,,0320051384,[],,true,true,sfr:03 20 05 13 84,false,,,true,fr
+shopmium,Shopmium Englos,50.632233,2.968107,c.cial Auchan Englos,Englos,59320,,0320096202,[],,true,true,sfr:03 20 09 62 02,false,,,true,fr
+shopmium,Shopmium Lille,50.64366750000001,3.060996,7/9 11 rue Neuve,Lille,59800,,0320129247,[],,true,true,sfr:03 20 12 92 47,false,,,true,fr
+shopmium,Shopmium Tourcoing,50.72260139999999,3.159988,7 rue de Tournai,Tourcoing,59200,,0320288256,[],,true,true,sfr:03 20 28 82 56,false,,,true,fr
+shopmium,Shopmium Lille,50.6278953,3.0508723,280 rue Gambetta,Lille,59000,,0320300266,[],,true,true,sfr:03 20 30 02 66,false,,,true,fr
+shopmium,Shopmium Armentieres,50.6878822,2.8808203,27 rue de Dunkerque,Armentieres,59280,,0320350794,[],,true,true,sfr:03 20 35 07 94,false,,,true,fr
+shopmium,Shopmium Lille,50.635788,3.0660462,4 rue Sec Arembault,Lille,59800,,0320558555,[],,true,true,sfr:03 20 55 85 55,false,,,true,fr
+shopmium,Shopmium Villeneuve D'ascq,50.6316211,3.1533357,c.cial Auchan Villeneuve 2 Niv 1,Villeneuve D'ascq,59650,,0320611717,[],,true,true,sfr:03 20 61 17 17,false,,,true,fr
+shopmium,Shopmium Lomme,50.65153189999999,2.9759749,c.cial Carrefour 130 rue Grand But,Lomme,59160,,0320932010,[],,true,true,sfr:03 20 93 20 10,false,,,true,fr
+shopmium,Shopmium Wasquehal,50.68205030000001,3.1294331,c.cial Carrefour av Grand Cottignies,Wasquehal,59290,,0320983131,[],,true,true,sfr:03 20 98 31 31,false,,,true,fr
+shopmium,Shopmium Coquelles,50.93547720000001,1.8085328,c.cial la Cite Europe 1001 bd Kent,Coquelles,62231,,0321001919,[],,true,true,sfr:03 21 00 19 19,false,,,true,fr
+shopmium,Shopmium Bethune,50.5294201,2.6390792,52 rue d'Arras,Bethune,62400,,0321014865,[],,true,true,sfr:03 21 01 48 65,false,,,true,fr
+shopmium,Shopmium Auchy Les Mines,50.510693,2.785233,c.cial Carrefour Porte des Flandres RN 41,Auchy Les Mines,62138,,0321024980,[],,true,true,sfr:03 21 02 49 80,false,,,true,fr
+shopmium,Shopmium Lens,50.4292665,2.8307209,50 place Jean Jaures,Lens,62300,,0321080288,[],,true,true,sfr:03 21 08 02 88,false,,,true,fr
+shopmium,Shopmium Arras,50.2892023,2.7791439,2 rue Pasteur,Arras,62000,,0321237818,[],,true,true,sfr:03 21 23 78 18,false,,,true,fr
+shopmium,Shopmium Boulogne Sur Mer,50.7237604,1.6038159,49 rue Victor Hugo,Boulogne Sur Mer,62200,,0321306767,[],,true,true,sfr:03 21 30 67 67,false,,,true,fr
+shopmium,Shopmium Aire Sur La Lys,50.63389859999999,2.4198679,c.cial Carrefour Val de Lys av de l'Europe,Aire Sur La Lys,62120,,0321398829,[],,true,true,sfr:03 21 39 88 29,false,,,true,fr
+shopmium,Shopmium Vendin Le Vieil,50.4700034,2.8126712,c.cial Lens Ii RN 347 route de la Bassee,Vendin Le Vieil,62410,,0321421500,[],,true,true,sfr:03 21 42 15 00,false,,,true,fr
+shopmium,Shopmium Lievin,50.417921,2.775222,c.cial Carrefour ZAC Marichelles,Lievin,62800,,0321446499,[],,true,true,sfr:03 21 44 64 99,false,,,true,fr
+shopmium,Shopmium Calais,50.95129000000001,1.858686,c.cial des 4 bd s,Calais,62100,,0321465888,[],,true,true,sfr:03 21 46 58 88,false,,,true,fr
+shopmium,Shopmium Noyelles Godault,50.40367879999999,2.9723479,Galerie c.cial Auchan Local No 13 ZAC du Bord des Eaux RN 43,Noyelles Godault,62110,,0321495299,[],,true,true,sfr:03 21 49 52 99,false,,,true,fr
+shopmium,Shopmium Bruay La Buissiere,50.4944825,2.5734501,c.cial Cora 1115 av de la Liberation,Bruay La Buissiere,62700,,0321625014,[],,true,true,sfr:03 21 62 50 14,false,,,true,fr
+shopmium,Shopmium Bethune,50.531036,2.63926,c.cial Auchan la Rotonde Cellule 33,Bethune,62400,,0321689116,[],,true,true,sfr:03 21 68 91 16,false,,,true,fr
+shopmium,Shopmium Berck Sur Mer,50.40434,1.597045,c.cial Carrefour,Berck Sur Mer,62600,,0321840324,[],,true,true,sfr:03 21 84 03 24,false,,,true,fr
+shopmium,Shopmium Berck Sur Mer,50.4055064,1.5635224,15 rue Carnot,Berck Sur Mer,62600,,0321945516,[],,true,true,sfr:03 21 94 55 16,false,,,true,fr
+shopmium,Shopmium Longuenesse,50.73674399999999,2.243632,c.cial Auchan Rives de l'Aa ZAC des Frais Fonds,Longuenesse,62219,,0321987299,[],,true,true,sfr:03 21 98 72 99,false,,,true,fr
+shopmium,Shopmium Abbeville,50.105467,1.836833,c.cial Geant Rond Point,Abbeville,80100,,0322203397,[],,true,true,sfr:03 22 20 33 97,false,,,true,fr
+shopmium,Shopmium Amiens,49.89219,2.300524,31 rue des 3 Cailloux,Amiens,80000,,0322225888,[],,true,true,sfr:03 22 22 58 88,false,,,true,fr
+shopmium,Shopmium Abbeville,50.1069146,1.8346297,18 rue des Lingers,Abbeville,80100,,0322287867,[],,true,true,sfr:03 22 28 78 67,false,,,true,fr
+shopmium,Shopmium Amiens Glisy,49.875919,2.384894,c.cial de Glisy RN 29 ZAC Amiens les Pilot,Amiens Glisy,80440,,0322470291,[],,true,true,sfr:03 22 47 02 91,false,,,true,fr
+shopmium,Shopmium Dury,49.8732698,2.278046,c.cial Auchan Amiens Sud route de Paris,Dury,80480,,0322896421,[],,true,true,sfr:03 22 89 64 21,false,,,true,fr
+shopmium,Shopmium Saint Quentin,49.84660299999999,3.2890309,14 rue des Toiles,Saint Quentin,02100,,0323084000,[],,true,true,sfr:03 23 08 40 00,false,,,true,fr
+shopmium,Shopmium Laon,49.5510197,3.6094751,c.cial Carrefour Local N°22 rue Romanette,Laon,02000,,0323202835,[],,true,true,sfr:03 23 20 28 35,false,,,true,fr
+shopmium,Shopmium Chauny,49.6136518,3.2192411,36 rue de la Repuiblique,Chauny,02300,,0323370364,[],,true,true,sfr:03 23 37 03 64,false,,,true,fr
+shopmium,Shopmium Soissons,49.3823146,3.3276793,17 rue du Commerce,Soissons,02200,,0323590033,[],,true,true,sfr:03 23 59 00 33,false,,,true,fr
+shopmium,Shopmium Saint Quentin,49.847066,3.2874,c.cial Auchan route d'Amiens N29,Saint Quentin,02100,,0323670539,[],,true,true,sfr:03 23 67 05 39,false,,,true,fr
+shopmium,Shopmium Chateau Thierry,49.1073062,3.4068974,13 rue Charles de Gaulle,Chateau Thierry,02400,,0323690207,[],,true,true,sfr:03 23 69 02 07,false,,,true,fr
+shopmium,Shopmium Sedan,49.7000245,4.9483131,57 place des Halles,Sedan,08200,,0324225888,[],,true,true,sfr:03 24 22 58 88,false,,,true,fr
+shopmium,Shopmium Charleville Mezieres,49.7717872,4.7201867,57 rue de la Republique,Charleville Mezieres,08000,,0324410888,[],,true,true,sfr:03 24 41 08 88,false,,,true,fr
+shopmium,Shopmium Saint Dizier,48.63666749999999,4.9490831,17 rue du Docteur Mougeot,Saint Dizier,52100,,0325055028,[],,true,true,sfr:03 25 05 50 28,false,,,true,fr
+shopmium,Shopmium Romilly Sur Seine,48.517732,3.726275,c.cial Leclerc ZA Belle Idee,Romilly Sur Seine,10100,,0325210231,[],,true,true,sfr:03 25 21 02 31,false,,,true,fr
+shopmium,Shopmium Chaumont,48.11132310000001,5.1397719,13 place de la Concorde,Chaumont,52000,,0325302888,[],,true,true,sfr:03 25 30 28 88,false,,,true,fr
+shopmium,Shopmium La Chapelle St Luc,48.3060259,4.0261884,c.cial l Escapade 4 bd de l Ouest,La Chapelle St Luc,10600,,0325456064,[],,true,true,sfr:03 25 45 60 64,false,,,true,fr
+shopmium,Shopmium Saint Julien Les Villas,48.2648407,4.0891133,1 bd de Dijon,Saint Julien Les Villas,10800,,0325493030,[],,true,true,sfr:03 25 49 30 30,false,,,true,fr
+shopmium,Shopmium Troyes,48.2960473,4.073767399999999,87 rue Emile Zola,Troyes,10000,,0325732020,[],,true,true,sfr:03 25 73 20 20,false,,,true,fr
+shopmium,Shopmium Reims,49.25489409999999,4.0293166,15 rue de Talleyrand,Reims,51100,,0326070646,[],,true,true,sfr:03 26 07 06 46,false,,,true,fr
+shopmium,Shopmium St Brice Courcelles,49.2780834,4.0024961,c.cial Leclerc rue de la Croix Maurencienne,St Brice Courcelles,51370,,0326099886,[],,true,true,sfr:03 26 09 98 86,false,,,true,fr
+shopmium,Shopmium Epernay,49.0442755,3.9545979,10 rue Saint Martin,Epernay,51200,,0326557639,[],,true,true,sfr:03 26 55 76 39,false,,,true,fr
+shopmium,Shopmium Chalons En Champagne,48.956682,4.363073,c.cial Carrefour av Pdt Roosevelt Croix Dampierre,Chalons En Champagne,51000,,0326663720,[],,true,true,sfr:03 26 66 37 20,false,,,true,fr
+shopmium,Shopmium Chalons En Champagne,48.9559296,4.3621066,13 rue des Lombards,Chalons En Champagne,51000,,0326675888,[],,true,true,sfr:03 26 67 58 88,false,,,true,fr
+shopmium,Shopmium Cormontreuil,49.2232569,4.055568,Parc d'Activite Commerciales les Blancs Monts,Cormontreuil,51350,,0326785888,[],,true,true,sfr:03 26 78 58 88,false,,,true,fr
+shopmium,Shopmium Cormontreuil,49.2137439,4.0508259,c.cial Cora route de Louvois,Cormontreuil,51350,,0326861632,[],,true,true,sfr:03 26 86 16 32,false,,,true,fr
+shopmium,Shopmium Douai,50.3683666,3.0817546,35 rue de Belain,Douai,59500,,0327081142,[],,true,true,sfr:03 27 08 11 42,false,,,true,fr
+shopmium,Shopmium Valenciennes,50.357113,3.518332,c.cial place d Armes Rdc Local N° B001,Valenciennes,59300,,0327295670,[],,true,true,sfr:03 27 29 56 70,false,,,true,fr
+shopmium,Shopmium Petite Foret,50.367423,3.480099,c.cial Auchan Petite Foret N45,Petite Foret,59494,,0327311213,[],,true,true,sfr:03 27 31 12 13,false,,,true,fr
+shopmium,Shopmium Denain,50.326801,3.392783,c.cial Carrefour Denain rue Villars,Denain,59220,,0327318740,[],,true,true,sfr:03 27 31 87 40,false,,,true,fr
+shopmium,Shopmium Valenciennes,50.3581092,3.5246819,12 rue du Quesnoy,Valenciennes,59300,,0327329444,[],,true,true,sfr:03 27 32 94 44,false,,,true,fr
+shopmium,Shopmium Maubeuge,50.2751338,3.9731645,37 av de France,Maubeuge,59600,,0327580795,[],,true,true,sfr:03 27 58 07 95,false,,,true,fr
+shopmium,Shopmium Louvroil,50.26374,3.959502,c.cial Val de Sambre Cellule N°108,Louvroil,59720,,0327602365,[],,true,true,sfr:03 27 60 23 65,false,,,true,fr
+shopmium,Shopmium Escaudoeuvres,50.184383,3.2532165,c.cial Auchan 2 rue Jean Jaures,Escaudoeuvres,59161,,0327823030,[],,true,true,sfr:03 27 82 30 30,false,,,true,fr
+shopmium,Shopmium Cambrai,50.1750975,3.2339184,4 av de la Victoire,Cambrai,59400,,0327824593,[],,true,true,sfr:03 27 82 45 93,false,,,true,fr
+shopmium,Shopmium Flers En Escrebieux,50.397772,3.061237,c.cial Douai Flers N43,Flers En Escrebieux,59128,,0327870723,[],,true,true,sfr:03 27 87 07 23,false,,,true,fr
+shopmium,Shopmium Sin Le Noble,50.343357,3.10112,c.cial Auchan les Epis,Sin Le Noble,59450,,0327975861,[],,true,true,sfr:03 27 97 58 61,false,,,true,fr
+shopmium,Shopmium Faches Thumesnil,50.58198,3.080825,c.cial Auchan Faches Thumesnil,Faches Thumesnil,59155,,0328169566,[],,true,true,sfr:03 28 16 95 66,false,,,true,fr
+shopmium,Shopmium Grande Synthe,51.0113824,2.2952331,c.cial Auchan Flandre av de l'Ancien Village,Grande Synthe,59760,,0328214438,[],,true,true,sfr:03 28 21 44 38,false,,,true,fr
+shopmium,Shopmium Lille,50.62925,3.057256,c.cial Euralille Niveau 1,Lille,59000,,0328364343,[],,true,true,sfr:03 28 36 43 43,false,,,true,fr
+shopmium,Shopmium Hazebrouck,50.72748,2.542555,c.cial Carrefour Parc de la Creule,Hazebrouck,59190,,0328415580,[],,true,true,sfr:03 28 41 55 80,false,,,true,fr
+shopmium,Shopmium Dunkerque,51.0329375,2.3750745,48 bd Alexandre Iii,Dunkerque,59140,,0328511506,[],,true,true,sfr:03 28 51 15 06,false,,,true,fr
+shopmium,Shopmium Dunkerque,51.0324044,2.3736858,88 bd Alexandre Iii,Dunkerque,59140,,0328669999,[],,true,true,sfr:03 28 66 99 99,false,,,true,fr
+shopmium,Shopmium Remiremont,48.0172268,6.588928999999999,11 rue de la Xavee,Remiremont,88200,,0329221313,[],,true,true,sfr:03 29 22 13 13,false,,,true,fr
+shopmium,Shopmium Epinal,48.17546480000001,6.44713,20 rue des Minimes,Epinal,88000,,0329295888,[],,true,true,sfr:03 29 29 58 88,false,,,true,fr
+shopmium,Shopmium Saint Die Des Vosges,48.2863656,6.9494107,22 rue Thiers,Saint Die Des Vosges,88100,,0329421745,[],,true,true,sfr:03 29 42 17 45,false,,,true,fr
+shopmium,Shopmium Saint Die Des Vosges,48.2874679,6.947767,c.cial Leclerc 10 rue la Madeleine ZA d'Ellieule 2,Saint Die Des Vosges,88100,,0329554580,[],,true,true,sfr:03 29 55 45 80,false,,,true,fr
+shopmium,Shopmium Bar Le Duc,48.7723129,5.1627773,51 bd de la Rochelle,Bar Le Duc,55000,,0329794637,[],,true,true,sfr:03 29 79 46 37,false,,,true,fr
+shopmium,Shopmium Jeuxey,48.20064499999999,6.488117,c.cial Carrefour 33 rue Saut Lecerf,Jeuxey,88000,,0329811587,[],,true,true,sfr:03 29 81 15 87,false,,,true,fr
+shopmium,Shopmium Golbey,48.1902514,6.425898699999999,c.cial Leclerc av du General Leclerc,Golbey,88190,,0329813411,[],,true,true,sfr:03 29 81 34 11,false,,,true,fr
+shopmium,Shopmium Verdun,49.1612376,5.3845846,42/44 rue Mazel,Verdun,55100,,0329855888,[],,true,true,sfr:03 29 85 58 88,false,,,true,fr
+shopmium,Shopmium Beauvais,49.4087885,2.1164488,1 av Descartes,Beauvais,60000,,0344020614,[],,true,true,sfr:03 44 02 06 14,false,,,true,fr
+shopmium,Shopmium Meru,49.236009,2.13544,c.cial Auchan les Marquises,Meru,60110,,0344023269,[],,true,true,sfr:03 44 02 32 69,false,,,true,fr
+shopmium,Shopmium Beauvais,49.43100949999999,2.0834642,9 rue Carnot,Beauvais,60000,,0344060888,[],,true,true,sfr:03 44 06 08 88,false,,,true,fr
+shopmium,Shopmium Noyon,49.5811027,2.9987451,6 place Cordouen,Noyon,60400,,0344097155,[],,true,true,sfr:03 44 09 71 55,false,,,true,fr
+shopmium,Shopmium Venette,49.4098395,2.778046,57 av de l'Europe Lot Numero 6,Venette,60280,,0344202167,[],,true,true,sfr:03 44 20 21 67,false,,,true,fr
+shopmium,Shopmium Saint Maximin,49.221903,2.449402,c.cial Cora RN,Saint Maximin,60740,,0344255167,[],,true,true,sfr:03 44 25 51 67,false,,,true,fr
+shopmium,Shopmium Compiegne,49.4186193,2.8244729,30 rue de Solferino,Compiegne,60200,,0344380202,[],,true,true,sfr:03 44 38 02 02,false,,,true,fr
+shopmium,Shopmium Crepy En Valois,49.2330942,2.8872211,33/35 rue Charles de Gaulle,Crepy En Valois,60800,,0344390404,[],,true,true,sfr:03 44 39 04 04,false,,,true,fr
+shopmium,Shopmium Nogent Sur Oise,49.2711404,2.4815372,c.cial Auchan 110 av de l Europe,Nogent Sur Oise,60180,,0344537006,[],,true,true,sfr:03 44 53 70 06,false,,,true,fr
+shopmium,Shopmium Beaune,47.02603000000001,4.840004,c.cial St Jacques Hyper Carrefour 9 av Chartles de Gaulle,Beaune,21200,,0380228735,[],,true,true,sfr:03 80 22 87 35,false,,,true,fr
+shopmium,Shopmium Dijon,47.3230083,5.0383827,28/30 rue Musette,Dijon,21000,,0380305988,[],,true,true,sfr:03 80 30 59 88,false,,,true,fr
+shopmium,Shopmium Quetigny,47.3095842,5.1036801,c.cial Carrefour Grand Quetigny av de Bourgogne,Quetigny,21800,,0380381835,[],,true,true,sfr:03 80 38 18 35,false,,,true,fr
+shopmium,Shopmium Dijon,47.3225138,5.0364034,24 rue de la Liberte,Dijon,21000,,0380508750,[],,true,true,sfr:03 80 50 87 50,false,,,true,fr
+shopmium,Shopmium Chenove,47.2867191,5.0168829,c.cial Geant Casino rue Longvic,Chenove,21300,,0380517703,[],,true,true,sfr:03 80 51 77 03,false,,,true,fr
+shopmium,Shopmium Dijon,47.322047,5.04148,c.cial la Toison d'Or 52 Grand Mail,Dijon,21000,,0380715050,[],,true,true,sfr:03 80 71 50 50,false,,,true,fr
+shopmium,Shopmium Besancon,47.2380147,6.0234665,46 Grande Rue,Besancon,25000,,0381255388,[],,true,true,sfr:03 81 25 53 88,false,,,true,fr
+shopmium,Shopmium Montbeliard,47.5100264,6.7997339,64 rue Cuvier,Montbeliard,25200,,0381320636,[],,true,true,sfr:03 81 32 06 36,false,,,true,fr
+shopmium,Shopmium Pontarlier,46.9052284,6.352060499999999,8 place Saint Pierre,Pontarlier,25300,,0381469888,[],,true,true,sfr:03 81 46 98 88,false,,,true,fr
+shopmium,Shopmium Besancon,47.237829,6.024053899999999,Galerie c.cial Geant Chateaufarine route de Dole RN 73,Besancon,25000,,0381605004,[],,true,true,sfr:03 81 60 50 04,false,,,true,fr
+shopmium,Shopmium Chalezeule,47.26318879999999,6.0623426,Galerie Commerciale Carrefour 1 chemin des Agasses,Chalezeule,25220,,0381889588,[],,true,true,sfr:03 81 88 95 88,false,,,true,fr
+shopmium,Shopmium Mont Saint Martin,49.54188790000001,5.7803003,c.cial Auchan Pole Europe,Mont Saint Martin,54350,,0382231399,[],,true,true,sfr:03 82 23 13 99,false,,,true,fr
+shopmium,Shopmium Longwy Haut,49.524426,5.763978,11 rue Margaine,Longwy Haut,54400,,0382239254,[],,true,true,sfr:03 82 23 92 54,false,,,true,fr
+shopmium,Shopmium Thionville,49.35502409999999,6.142593,c.cial Carrefour Geric 33 rue Maillet Local B64,Thionville,57100,,0382518067,[],,true,true,sfr:03 82 51 80 67,false,,,true,fr
+shopmium,Shopmium Thionville,49.357937,6.1657041,8 rue du Four Banal,Thionville,57100,,0382531418,[],,true,true,sfr:03 82 53 14 18,false,,,true,fr
+shopmium,Shopmium Nancy,48.6881663,6.180765500000001,c.cial St Sebastien rue des Ponts,Nancy,54000,,0383275806,[],,true,true,sfr:03 83 27 58 06,false,,,true,fr
+shopmium,Shopmium Nancy,48.6911734,6.1824201,25 rue Saint Dizier,Nancy,54000,,0383356000,[],,true,true,sfr:03 83 35 60 00,false,,,true,fr
+shopmium,Shopmium Nancy,48.6901855,6.1806017,33 rue St Jean,Nancy,54000,,0383375785,[],,true,true,sfr:03 83 37 57 85,false,,,true,fr
+shopmium,Shopmium Dommartin Les Touls,48.674213,5.927871,c.cial Leclerc,Dommartin Les Touls,54200,,0383432555,[],,true,true,sfr:03 83 43 25 55,false,,,true,fr
+shopmium,Shopmium Houdemont,48.647188,6.176482,Galerie Ciale Houdemont RN 57,Houdemont,54180,,0383542974,[],,true,true,sfr:03 83 54 29 74,false,,,true,fr
+shopmium,Shopmium Luneville,48.591355,6.4945225,6 place Leopold,Luneville,54300,,0383755517,[],,true,true,sfr:03 83 75 55 17,false,,,true,fr
+shopmium,Shopmium Pont A Mousson,48.9022035,6.051120399999999,42 bis rue Victor Hugo,Pont A Mousson,54700,,0383833721,[],,true,true,sfr:03 83 83 37 21,false,,,true,fr
+shopmium,Shopmium Lons Le Saunier,46.67321930000001,5.5513697,25 rue Saint Desire,Lons Le Saunier,39000,,0384434900,[],,true,true,sfr:03 84 43 49 00,false,,,true,fr
+shopmium,Shopmium Dole,47.0928617,5.4935619,62 rue de Besancon,Dole,39100,,0384691999,[],,true,true,sfr:03 84 69 19 99,false,,,true,fr
+shopmium,Shopmium Belfort,47.6375217,6.8577957,4 place Corbis,Belfort,90000,,0384901488,[],,true,true,sfr:03 84 90 14 88,false,,,true,fr
+shopmium,Shopmium Vesoul,47.6207511,6.1555354,29 rue Paul Morel,Vesoul,70000,,0384977888,[],,true,true,sfr:03 84 97 78 88,false,,,true,fr
+shopmium,Shopmium Macon,46.3046203,4.8336407,1 rue Sigorgne,Macon,71000,,0385229988,[],,true,true,sfr:03 85 22 99 88,false,,,true,fr
+shopmium,Shopmium Chalon Sur Saone,46.7831248,4.8492697,c.cial la Thalie N6,Chalon Sur Saone,71100,,0385469266,[],,true,true,sfr:03 85 46 92 66,false,,,true,fr
+shopmium,Shopmium Montceau Les Mines,46.673915,4.3633157,17 rue Carnot,Montceau Les Mines,71300,,0385679888,[],,true,true,sfr:03 85 67 98 88,false,,,true,fr
+shopmium,Shopmium Le Creusot,46.8053683,4.4379875,53 rue du Marechal Foch,Le Creusot,71200,,0385730777,[],,true,true,sfr:03 85 73 07 77,false,,,true,fr
+shopmium,Shopmium Autun,46.9484849,4.2984382,38 rue Aux Cordiers,Autun,71400,,0385869788,[],,true,true,sfr:03 85 86 97 88,false,,,true,fr
+shopmium,Shopmium Chalon Sur Saone,46.7729216,4.858797099999999,c.cial Carrefour Sud rue Thomas Dumorey,Chalon Sur Saone,71100,,0385900312,[],,true,true,sfr:03 85 90 03 12,false,,,true,fr
+shopmium,Shopmium Chalon Sur Saone,46.7832456,4.8510494,15 rue de la Banque,Chalon Sur Saone,71100,,0385930015,[],,true,true,sfr:03 85 93 00 15,false,,,true,fr
+shopmium,Shopmium Chalon Sur Saone,46.7826677,4.8567846,38 Grande Rue,Chalon Sur Saone,71100,,0385949170,[],,true,true,sfr:03 85 94 91 70,false,,,true,fr
+shopmium,Shopmium Auxerre,47.798202,3.573781,c.cial Geant,Auxerre,89000,,0386181414,[],,true,true,sfr:03 86 18 14 14,false,,,true,fr
+shopmium,Shopmium Nevers,46.9897782,3.1621645,64 rue Francois Mitterrand,Nevers,58000,,0386215888,[],,true,true,sfr:03 86 21 58 88,false,,,true,fr
+shopmium,Shopmium Marzy,46.98059,3.0932559,c.cial Carrefour Marzy route de Fouchambault,Marzy,58180,,0386710211,[],,true,true,sfr:03 86 71 02 11,false,,,true,fr
+shopmium,Shopmium Sens,48.197346,3.2829612,78 rue de la Republique,Sens,89100,,0386837837,[],,true,true,sfr:03 86 83 78 37,false,,,true,fr
+shopmium,Shopmium Sarrebourg,48.7237608,7.083711900000001,18 Grande Rue,Sarrebourg,57400,,0387034520,[],,true,true,sfr:03 87 03 45 20,false,,,true,fr
+shopmium,Shopmium Marly,49.059828,6.154795,c.cial Leclerc ZAC Belle Fontaine,Marly,57155,,0387180632,[],,true,true,sfr:03 87 18 06 32,false,,,true,fr
+shopmium,Shopmium Metz,49.1170027,6.175070499999999,2 rue Marguerite Pulh Demange angle 19 rue Serpenoise,Metz,57000,,0387181315,[],,true,true,sfr:03 87 18 13 15,false,,,true,fr
+shopmium,Shopmium Sarreguemines,49.11174620000001,7.066569599999999,20 rue de l'Eglise,Sarreguemines,57200,,0387287064,[],,true,true,sfr:03 87 28 70 64,false,,,true,fr
+shopmium,Shopmium Semecourt,49.197843,6.13615,c.cial Auchan Semecourt,Semecourt,57280,,0387316103,[],,true,true,sfr:03 87 31 61 03,false,,,true,fr
+shopmium,Shopmium Metz,49.1193074,6.1757236,c.cial St Jacques Niveau 0,Metz,57000,,0387784816,[],,true,true,sfr:03 87 78 48 16,false,,,true,fr
+shopmium,Shopmium Longeville Les Saint Avold,49.1174,6.650588,c.cial Cora Zone Heckenwald,Longeville  Les Saint Avold,57740,,0387839105,[],,true,true,sfr:03 87 83 91 05,false,,,true,fr
+shopmium,Shopmium Forbach,49.185405,6.8977635,118 rue Nationale,Forbach,57600,,0387887111,[],,true,true,sfr:03 87 88 71 11,false,,,true,fr
+shopmium,Shopmium Creutzwald,49.204987,6.696246899999999,Galerie Commerciale ZA,Creutzwald,57150,,0387932238,[],,true,true,sfr:03 87 93 22 38,false,,,true,fr
+shopmium,Shopmium Haguenau,48.813288,7.791250000000001,12 Grande Rue,Haguenau,67500,,0388071188,[],,true,true,sfr:03 88 07 11 88,false,,,true,fr
+shopmium,Shopmium Haguenau Cedex,48.81222,7.786102,65 Grande Rue,Haguenau,67500,,0388092650,[],,true,true,sfr:03 88 09 26 50,false,,,true,fr
+shopmium,Shopmium Strasbourg,48.5837848,7.745723399999999,30 place Kleber,Strasbourg,67000,,0388219001,[],,true,true,sfr:03 88 21 90 01,false,,,true,fr
+shopmium,Shopmium Strasbourg,48.5846555,7.7440762,6 rue du Noyer,Strasbourg,67000,,0388236868,[],,true,true,sfr:03 88 23 68 68,false,,,true,fr
+shopmium,Shopmium Strasbourg,48.58891000000001,7.696651699999999,40 rue Charles Peguy,Strasbourg,67200,,0388280619,[],,true,true,sfr:03 88 28 06 19,false,,,true,fr
+shopmium,Shopmium Dorlisheim,48.5274807,7.4965492,c.cial Cora 1 rue Mercure,Dorlisheim,67120,,0388381212,[],,true,true,sfr:03 88 38 12 12,false,,,true,fr
+shopmium,Shopmium Illkirch,48.52854,7.711011,c.cial Auchan 6 route de Strasbourg,Illkirch,67400,,0388391735,[],,true,true,sfr:03 88 39 17 35,false,,,true,fr
+shopmium,Shopmium Mundolsheim,48.6434829,7.7144412,c.cial Cora RN 63,Mundolsheim,67450,,0388626624,[],,true,true,sfr:03 88 62 66 24,false,,,true,fr
+shopmium,Shopmium Saverne,48.7437501,7.356794700000001,100 Grande Rue,Saverne,67700,,0388712939,[],,true,true,sfr:03 88 71 29 39,false,,,true,fr
+shopmium,Shopmium Selestat,48.2581822,7.4540797,12 rue des Chevaliers,Selestat,67600,,0388828040,[],,true,true,sfr:03 88 82 80 40,false,,,true,fr
+shopmium,Shopmium Colmar,48.0793589,7.358511999999999,c.cial Duhlfeld Houssen Entree 1 Cellule N° 17,Colmar,68000,,0389244428,[],,true,true,sfr:03 89 24 44 28,false,,,true,fr
+shopmium,Shopmium Cernay,47.7946533,7.169133299999999,c.cial Leclerc 6 av d'Alsace,Cernay,68700,,0389262529,[],,true,true,sfr:03 89 26 25 29,false,,,true,fr
+shopmium,Shopmium Wittenheim,47.808291,7.3120151,c.cial Cora Local B2/130 route de Soultz,Wittenheim,68270,,0389322831,[],,true,true,sfr:03 89 32 28 31,false,,,true,fr
+shopmium,Shopmium Mulhouse,47.7471538,7.3396471,8 rue Merciere,Mulhouse,68200,,0389368818,[],,true,true,sfr:03 89 36 88 18,false,,,true,fr
+shopmium,Shopmium Colmar,48.0781011,7.355618100000001,8 rue des Boulangers,Colmar,68000,,0389414399,[],,true,true,sfr:03 89 41 43 99,false,,,true,fr
+shopmium,Shopmium Illzach,47.7711283,7.386759899999999,c.cial Carrefour Ile Napoleon 14 rue de Berne,Illzach,68110,,0389617422,[],,true,true,sfr:03 89 61 74 22,false,,,true,fr
+shopmium,Shopmium Bourgoin Jallieu,45.5866797,5.277733899999999,14 rue de la Liberte,Bourgoin Jallieu,38300,,0437030004,[],,true,true,sfr:04 37 03 00 04,false,,,true,fr
+shopmium,Shopmium Bourgoin Jallieu,45.5972792,5.2665245,c.cial Leclerc 15 av Henri Barbusse,Bourgoin Jallieu,38300,,0437030557,[],,true,true,sfr:04 37 03 05 57,false,,,true,fr
+shopmium,Shopmium Saint Martin D'heres,45.1851093,5.764267299999999,c.cial Geant av Gabriel Peri,Saint Martin D'heres,38400,,0438370722,[],,true,true,sfr:04 38 37 07 22,false,,,true,fr
+shopmium,Shopmium Grenoble,45.1703012,5.723450499999999,c.cial Carrefour Grand place 47 rue Grande Place,Grenoble,38100,,0438491997,[],,true,true,sfr:04 38 49 19 97,false,,,true,fr
+shopmium,Shopmium Cabries,43.4631256,5.365873199999999,c.cial Avant Cap Cd6 Plan de Campagne,Cabries,13480,,0442021223,[],,true,true,sfr:04 42 02 12 23,false,,,true,fr
+shopmium,Shopmium La Ciotat,43.1864283,5.600281,c.cial de l'Ancre Marine chemin du Puits de Brunet,La Ciotat,13600,,0442030043,[],,true,true,sfr:04 42 03 00 43,false,,,true,fr
+shopmium,Shopmium Aubagne,43.2926781,5.5676425,145 chemin de Merlancon route de la Bedoule,Aubagne,13400,,0442040505,[],,true,true,sfr:04 42 04 05 05,false,,,true,fr
+shopmium,Shopmium Marignane,43.411925,5.2189885,c.cial Intermarche av du 8 Mai 1945,Marignane,13700,,0442096192,[],,true,true,sfr:04 42 09 61 92,false,,,true,fr
+shopmium,Shopmium Aix En Provence,43.5263753,5.4459322,3 cours Mirabeau,Aix En Provence,13100,,0442209221,[],,true,true,sfr:04 42 20 92 21,false,,,true,fr
+shopmium,Shopmium Port De Bouc,43.405449,4.985931,c.cial Carrefour,Port De Bouc,13110,,0442401111,[],,true,true,sfr:04 42 40 11 11,false,,,true,fr
+shopmium,Shopmium Martigues,43.4030486,5.057299299999999,42 quai du General Leclerc,Martigues,13500,,0442441399,[],,true,true,sfr:04 42 44 13 99,false,,,true,fr
+shopmium,Shopmium Vitrolles,43.45859799999999,5.249702999999999,c.cial Carrefour Grand Vitrolles RN 113,Vitrolles,13127,,0442460900,[],,true,true,sfr:04 42 46 09 00,false,,,true,fr
+shopmium,Shopmium Les Pennes Mirabeau,43.410272,5.308922,c.cial Geant Barneoud Plan de Campagne Entree Nord,Les Pennes Mirabeau,13170,,0442465491,[],,true,true,sfr:04 42 46 54 91,false,,,true,fr
+shopmium,Shopmium Gardanne,43.4525982,5.4717363,c.cial Carrefour Market,Gardanne,13120,,0442514155,[],,true,true,sfr:04 42 51 41 55,false,,,true,fr
+shopmium,Shopmium Aix En Provence,43.5344224,5.4197831,Galerie Ciale Geant 210 av de Bredasque,Aix En Provence,13090,,0442546368,[],,true,true,sfr:04 42 54 63 68,false,,,true,fr
+shopmium,Shopmium Istres,43.5212157,4.9454803,c.cial Geant route de Fos Sur Mer,Istres,13800,,0442566912,[],,true,true,sfr:04 42 56 69 12,false,,,true,fr
+shopmium,Shopmium Aix En Provence,43.5338335,5.509246999999999,Fnac c.cial les allée Provencales,Aix En Provence,13100,,0442697896,[],,true,true,sfr:04 42 69 78 96,false,,,true,fr
+shopmium,Shopmium Aubagne,43.2979978,5.5904566,c.cial Auchan route de Gemenos,Aubagne,13400,,0442701031,[],,true,true,sfr:04 42 70 10 31,false,,,true,fr
+shopmium,Shopmium Thonon Les Bains,46.3702197,6.4784674,7 place Jules Mercier,Thonon Les Bains,74200,,0450170888,[],,true,true,sfr:04 50 17 08 88,false,,,true,fr
+shopmium,Shopmium Cluses,42.51712790000001,2.8821619,16 Grand Rue,Cluses,66740,,0450184888,[],,true,true,sfr:04 50 18 48 88,false,,,true,fr
+shopmium,Shopmium Thoiry,46.236466,5.979909999999999,c.cial Val Thoiry D984 route Bellegarde,Thoiry,01710,,0450205962,[],,true,true,sfr:04 50 20 59 62,false,,,true,fr
+shopmium,Shopmium Annecy,45.9016866,6.1263092,6 rue Vaugelas,Annecy,74000,,0450233800,[],,true,true,sfr:04 50 23 38 00,false,,,true,fr
+shopmium,Shopmium Epagny,45.93813,6.090965000000001,c.cial Auchan Grand Epagny ZI de la Mandallaz,Epagny,74330,,0450245276,[],,true,true,sfr:04 50 24 52 76,false,,,true,fr
+shopmium,Shopmium Saint Julien En Genevois,46.144516,6.081338,Galerie Ciale Champion Provencia,Saint Julien En Genevois,74160,,0450355888,[],,true,true,sfr:04 50 35 58 88,false,,,true,fr
+shopmium,Shopmium Etrembieres,46.1809883,6.2320749,c.cial Etrembieres 21 chemin de l Industrie,Etrembieres,74100,,0450380707,[],,true,true,sfr:04 50 38 07 07,false,,,true,fr
+shopmium,Shopmium Annemasse,46.19325300000001,6.234158,c.cial Geant,Annemasse,74100,,0450389071,[],,true,true,sfr:04 50 38 90 71,false,,,true,fr
+shopmium,Shopmium Seynod,45.8773148,6.0899087,Galerie Ciale Val Semnoz 20 rue de Periaz,Seynod,74600,,0450450661,[],,true,true,sfr:04 50 45 06 61,false,,,true,fr
+shopmium,Shopmium Annecy,45.8971718,6.1251614,Fnac 65 rue Carnot c.cial Courier,Annecy,74000,,0450462539,[],,true,true,sfr:04 50 46 25 39,false,,,true,fr
+shopmium,Shopmium Sallanches,45.935333,6.630768100000001,88 rue du Commerce,Sallanches,74700,,0450478573,[],,true,true,sfr:04 50 47 85 73,false,,,true,fr
+shopmium,Shopmium Nimes,43.8791313,4.3770704,Fnac la Coupole des Halles,Nimes,30000,,0466050489,[],,true,true,sfr:04 66 05 04 89,false,,,true,fr
+shopmium,Shopmium Mende,44.5163431,3.4988235,4 rue Henri Bourillon,Mende,48000,,0466328529,[],,true,true,sfr:04 66 32 85 29,false,,,true,fr
+shopmium,Shopmium Bagnols Sur Ceze,44.1633725,4.619511699999999,33 rue de la Republique,Bagnols Sur Ceze,30200,,0466395657,[],,true,true,sfr:04 66 39 56 57,false,,,true,fr
+shopmium,Shopmium Ales,44.1232388,4.0782238,7 rue de la Republique,Ales,30100,,0466520259,[],,true,true,sfr:04 66 52 02 59,false,,,true,fr
+shopmium,Shopmium Beaucaire,43.816468,4.618802,c.cial Carrefour route de Nimes,Beaucaire,30300,,0466592843,[],,true,true,sfr:04 66 59 28 43,false,,,true,fr
+shopmium,Shopmium Nimes,43.8180887,4.3442111,Galerie Ciale Nimes Etoile 116 rue Andre Dupont,Nimes,30000,,0466621061,[],,true,true,sfr:04 66 62 10 61,false,,,true,fr
+shopmium,Shopmium Nimes,43.774556,4.3667907,c.cial Geant Nime Cap Costieres,Nimes,30900,,0466760208,[],,true,true,sfr:04 66 76 02 08,false,,,true,fr
+shopmium,Shopmium Nimes,43.8387703,4.3574115,14 rue du General Perrier,Nimes,30000,,0466760502,[],,true,true,sfr:04 66 76 05 02,false,,,true,fr
+shopmium,Shopmium Ales,44.127204,4.083352,quai du Mas d'Hours c.cial Cora,Ales,30100,,0466850850,[],,true,true,sfr:04 66 85 08 50,false,,,true,fr
+shopmium,Shopmium Beziers,43.344233,3.215795,av du President Wilson ZAC de l'Hours,Beziers,34500,,0467095981,[],,true,true,sfr:04 67 09 59 81,false,,,true,fr
+shopmium,Shopmium Montpellier,43.6097386,3.8778105,7 rue de la Loge,Montpellier,34000,,0467145888,[],,true,true,sfr:04 67 14 58 88,false,,,true,fr
+shopmium,Shopmium Montpellier,43.6088281,3.8837941,c.cial du Polygone,Montpellier,34000,,0467153040,[],,true,true,sfr:04 67 15 30 40,false,,,true,fr
+shopmium,Shopmium Sete,43.4041137,3.6953683,19 rue du General de Gaulle,Sete,34200,,0467180707,[],,true,true,sfr:04 67 18 07 07,false,,,true,fr
+shopmium,Shopmium Lattes,43.5851626,3.9205081,c.cial Grand Sud route de Carnon,Lattes,34970,,0467202620,[],,true,true,sfr:04 67 20 26 20,false,,,true,fr
+shopmium,Shopmium Perols,43.5646077,3.9521382,Galerie Ciale Auchan Plein Sud,Perols,34470,,0467223850,[],,true,true,sfr:04 67 22 38 50,false,,,true,fr
+shopmium,Shopmium Beziers,43.3424196,3.2122158,3 allée Paul Riquet,Beziers,34500,,0467490102,[],,true,true,sfr:04 67 49 01 02,false,,,true,fr
+shopmium,Shopmium St Clement De Riviere,43.6844,3.8472,Galerie Cciale Trifontaine route de Ganges Local 27,St Clement De Riviere,34980,,0467557778,[],,true,true,sfr:04 67 55 77 78,false,,,true,fr
+shopmium,Shopmium Beziers,43.344233,3.215795,c.cial Auchan 4 av Demitienne,Beziers,34500,,0467620636,[],,true,true,sfr:04 67 62 06 36,false,,,true,fr
+shopmium,Shopmium Juvignac,43.611297,3.812357,c.cial les Portes du Soleil Languedocie,Juvignac,34990,,0467750685,[],,true,true,sfr:04 67 75 06 85,false,,,true,fr
+shopmium,Shopmium Beziers,43.344233,3.215795,c.cial Geant ZAC de Montimaran,Beziers,34500,,0467761330,[],,true,true,sfr:04 67 76 13 30,false,,,true,fr
+shopmium,Shopmium Balaruc Le Vieux,43.4592,3.689298,c.cial Carrefour Balaruc Entree Sud av Sete,Balaruc Le Vieux,34540,,0467785969,[],,true,true,sfr:04 67 78 59 69,false,,,true,fr
+shopmium,Shopmium Montpellier,43.6088281,3.8837941,Fnac c.cial du Polygone 1 rue des Pertuisanes,Montpellier,34000,,0467852663,[],,true,true,sfr:04 67 85 26 63,false,,,true,fr
+shopmium,Shopmium Montpellier,43.6047275,3.9011747,Galerie Commerciale Odysseum ZAC du Millenaire 2 place de Lisb,Montpellier,34000,,0467853642,[],,true,true,sfr:04 67 85 36 42,false,,,true,fr
+shopmium,Shopmium Perpignan,42.69867840000001,2.8909227,29 quai Vauban,Perpignan,66000,,0468342480,[],,true,true,sfr:04 68 34 24 80,false,,,true,fr
+shopmium,Shopmium Carcassonne,43.213334,2.3075199,c.cial Geant Salvaza,Carcassonne,11000,,0468475693,[],,true,true,sfr:04 68 47 56 93,false,,,true,fr
+shopmium,Shopmium Perpignan,42.6886591,2.8948332,c.cial Carrefour Rousillon route de Canet Lot 2234/2239,Perpignan,66100,,0468505946,[],,true,true,sfr:04 68 50 59 46,false,,,true,fr
+shopmium,Shopmium Perpignan,42.6886591,2.8948332,c.cial Auchan Porte d'Espagne,Perpignan,66100,,0468561633,[],,true,true,sfr:04 68 56 16 33,false,,,true,fr
+shopmium,Shopmium Claira,42.761522,2.948939,c.cial Carrefour Claira route de Barcares,Claira,66530,,0468626508,[],,true,true,sfr:04 68 62 65 08,false,,,true,fr
+shopmium,Shopmium Narbonne,43.1831884,3.0036808,17 rue du Pont des Marchands,Narbonne,11100,,0468703075,[],,true,true,sfr:04 68 70 30 75,false,,,true,fr
+shopmium,Shopmium Carcassonne,43.2261718,2.3311083,c.cial Leclerc Rond Point Georges Pompidou,Carcassonne,11000,,0468710148,[],,true,true,sfr:04 68 71 01 48,false,,,true,fr
+shopmium,Shopmium Perpignan,42.6979976,2.8885401,2 place de Catalogne,Perpignan,66000,,0468737609,[],,true,true,sfr:04 68 73 76 09,false,,,true,fr
+shopmium,Shopmium Narbonne,43.178344,3.0258761,c.cial Carrefour Bonne Source 24 bd Creissel,Narbonne,11100,,0468907755,[],,true,true,sfr:04 68 90 77 55,false,,,true,fr
+shopmium,Shopmium Montlucon,46.3442111,2.6005463,c.cial St Jacques quai Ledru Rollin,Montlucon,03100,,0470033111,[],,true,true,sfr:04 70 03 31 11,false,,,true,fr
+shopmium,Shopmium Moulins,46.5641573,3.3304867,39 rue d'Allier,Moulins,03000,,0470202451,[],,true,true,sfr:04 70 20 24 51,false,,,true,fr
+shopmium,Shopmium Montlucon,46.3384219,2.604525,51 bd de Courtais,Montlucon,03100,,0470290707,[],,true,true,sfr:04 70 29 07 07,false,,,true,fr
+shopmium,Shopmium Vichy,46.1250014,3.4226077,22 rue Georges Clemenceau,Vichy,03200,,0470310717,[],,true,true,sfr:04 70 31 07 17,false,,,true,fr
+shopmium,Shopmium Bellerive Sur Allier,46.113133,3.415689,c.cial Leclerc rue Rhin Et Danube,Bellerive Sur Allier,03700,,0470598786,[],,true,true,sfr:04 70 59 87 86,false,,,true,fr
+shopmium,Shopmium Puy En Velay,45.0421622,3.882276,44 rue St Gilles,Puy En Velay,43000,,0471026997,[],,true,true,sfr:04 71 02 69 97,false,,,true,fr
+shopmium,Shopmium Vals Pres Le Puy,45.026718,3.878636,c.cial Geant av Jeanne d'Arc,Vals Pres Le Puy,43750,,0471079000,[],,true,true,sfr:04 71 07 90 00,false,,,true,fr
+shopmium,Shopmium Lyon,45.7662796,4.8361626,9 rue de la Republique,Lyon,69001,,0472109420,[],,true,true,sfr:04 72 10 94 20,false,,,true,fr
+shopmium,Shopmium Lyon,45.75987019999999,4.8557707,Fnac c.cial Part Dieu 17 rue Docteur Bouchut,Lyon,69003,,0472317549,[],,true,true,sfr:04 72 31 75 49,false,,,true,fr
+shopmium,Shopmium Givors,45.58329,4.772829,c.cial Carrefour Givors Local N° 9,Givors,69700,,0472497169,[],,true,true,sfr:04 72 49 71 69,false,,,true,fr
+shopmium,Shopmium Villeurbanne,45.7686939,4.880290599999999,7 rue Paul Verlaine,Villeurbanne,69100,,0472656600,[],,true,true,sfr:04 72 65 66 00,false,,,true,fr
+shopmium,Shopmium Villeurbanne,45.7713758,4.8686624,67 cours Emile Zola,Villeurbanne,69100,,0472695050,[],,true,true,sfr:04 72 69 50 50,false,,,true,fr
+shopmium,Shopmium Saint Priest,45.6931289,4.9231339,Galerie Commerciale St Priest,Saint Priest,69800,,0472818462,[],,true,true,sfr:04 72 81 84 62,false,,,true,fr
+shopmium,Shopmium Clermont Ferrand,45.7313601,3.0657803,25 rue du 11 Novembre,Clermont Ferrand,63122,,0473192888,[],,true,true,sfr:04 73 19 28 88,false,,,true,fr
+shopmium,Shopmium Aubiere,45.7524367,3.1296398,c.cial Auchan 101 av Jean Moulin,Aubiere,63170,,0473265163,[],,true,true,sfr:04 73 26 51 63,false,,,true,fr
+shopmium,Shopmium Clermont Ferrand,45.7749776,3.0816471,c.cial Jaude Local 6 place de la Resistance,Clermont Ferrand,63000,,0473282279,[],,true,true,sfr:04 73 28 22 79,false,,,true,fr
+shopmium,Shopmium Riom,45.8808281,3.116506,c.cial Carrefour Riom Sud av de Clermont,Riom,63200,,0473649990,[],,true,true,sfr:04 73 64 99 90,false,,,true,fr
+shopmium,Shopmium Lempdes,45.7754687,3.194405,c.cial Cora 28 av de l'Europe,Lempdes,63370,,0473836488,[],,true,true,sfr:04 73 83 64 88,false,,,true,fr
+shopmium,Shopmium Issoire,45.5483585,3.2623895,c.cial Carrefour Local 2 bis ZAC des Pres rue Jean Bigot,Issoire,63500,,0473893074,[],,true,true,sfr:04 73 89 30 74,false,,,true,fr
+shopmium,Shopmium Bourg En Bresse,46.2055715,5.2290549,1 bd de Brou,Bourg En Bresse,01000,,0474246831,[],,true,true,sfr:04 74 24 68 31,false,,,true,fr
+shopmium,Shopmium L'isle D'abeau,45.6135399,5.226151199999999,c.cial Isle d'Abeau ZAC St Hubert Cc. Regionnal des Sayes bd Bourgoin,L'isle D'abeau,38080,,0474278162,[],,true,true,sfr:04 74 27 81 62,false,,,true,fr
+shopmium,Shopmium Bourg En Bresse,46.1964001,5.2654927,c.cial Leclerc Cap Emeraude av Amedee Mercier,Bourg En Bresse,01000,,0474524649,[],,true,true,sfr:04 74 52 46 49,false,,,true,fr
+shopmium,Shopmium Villefranche Sur Saone,45.9878481,4.7178746,840 rue Nationale,Villefranche Sur Saone,69400,,0474604399,[],,true,true,sfr:04 74 60 43 99,false,,,true,fr
+shopmium,Shopmium Ecully,45.7911604,4.7756262,c.cial Carrefour Ecully Grand Ouest rue Jean Marie Vianney,Ecully,69130,,0474723835,[],,true,true,sfr:04 74 72 38 35,false,,,true,fr
+shopmium,Shopmium Dardilly,45.805587,4.753184,c.cial Auchan Porte de Lyon N6,Dardilly,69570,,0474728491,[],,true,true,sfr:04 74 72 84 91,false,,,true,fr
+shopmium,Shopmium Vienne,45.5229957,4.8744027,33 cours Romestang,Vienne,38200,,0474784888,[],,true,true,sfr:04 74 78 48 88,false,,,true,fr
+shopmium,Shopmium Oyonnax,46.2577503,5.656537699999999,99 rue Anatole France,Oyonnax,01100,,0474812828,[],,true,true,sfr:04 74 81 28 28,false,,,true,fr
+shopmium,Shopmium Montelimar,44.559591,4.7512134,97 rue Pierre Julien,Montelimar,26200,,0475009138,[],,true,true,sfr:04 75 00 91 38,false,,,true,fr
+shopmium,Shopmium Aubenas,44.620909,4.389863,7 place General de Gaulle,Aubenas,07200,,0475353682,[],,true,true,sfr:04 75 35 36 82,false,,,true,fr
+shopmium,Shopmium Valence,44.9323207,4.8946013,74 rue Madier de Montjeau,Valence,26000,,0475430829,[],,true,true,sfr:04 75 43 08 29,false,,,true,fr
+shopmium,Shopmium Guilherand Granges,44.9382341,4.8655845,Galerie c.cial Auchan 1449 av de la Republique,Guilherand Granges,07500,,0475611734,[],,true,true,sfr:04 75 61 17 34,false,,,true,fr
+shopmium,Shopmium Privas,44.73537289999999,4.5975784,11 rue de la Republique,Privas,07000,,0475667688,[],,true,true,sfr:04 75 66 76 88,false,,,true,fr
+shopmium,Shopmium Davezieux,45.2549524,4.6867352,c.cial Geant le Mas 130 rue de Pourrat,Davezieux,07430,,0475674203,[],,true,true,sfr:04 75 67 42 03,false,,,true,fr
+shopmium,Shopmium Romans Sur Isere,45.04552289999999,5.0503076,51 place Jean Jaures,Romans Sur Isere,26100,,0475729968,[],,true,true,sfr:04 75 72 99 68,false,,,true,fr
+shopmium,Shopmium Bourg Les Valence,44.9593245,4.8840412,c.cial Leclerc Bourg les Valence rue Chabanneries,Bourg Les Valence,26500,,0475820666,[],,true,true,sfr:04 75 82 06 66,false,,,true,fr
+shopmium,Shopmium Valence,44.9523932,4.9284868,c.cial Geant Valence 2 route Romans,Valence,26000,,0475821010,[],,true,true,sfr:04 75 82 10 10,false,,,true,fr
+shopmium,Shopmium Montelimar,44.556944,4.749496,zone cial Soleil Levant,Montelimar,26200,,0475988467,[],,true,true,sfr:04 75 98 84 67,false,,,true,fr
+shopmium,Shopmium Echirolle,45.149216,5.69213,c.cial Leclerc Comboire,Echirolle,38130,,0476085888,[],,true,true,sfr:04 76 08 58 88,false,,,true,fr
+shopmium,Shopmium Grenoble,45.189531,5.726640499999999,7 rue de Bonne,Grenoble,38000,,0476284231,[],,true,true,sfr:04 76 28 42 31,false,,,true,fr
+shopmium,Shopmium Voiron,45.3666766,5.5919272,12/14 rue Montgolfier,Voiron,38500,,0476671888,[],,true,true,sfr:04 76 67 18 88,false,,,true,fr
+shopmium,Shopmium Saint Etienne,45.423125,4.391934,Galerie c.cial Centre 2/1 rue Charcot,Saint Etienne,42100,,0477010961,[],,true,true,sfr:04 77 01 09 61,false,,,true,fr
+shopmium,Shopmium Roanne,46.0365743,4.070761099999999,11 rue Charles de Gaulle,Roanne,42300,,0477233228,[],,true,true,sfr:04 77 23 32 28,false,,,true,fr
+shopmium,Shopmium Montbrison,45.606406,4.0670932,2 place des Combattants,Montbrison,42600,,0477244712,[],,true,true,sfr:04 77 24 47 12,false,,,true,fr
+shopmium,Shopmium Saint Etienne,45.450626,4.3859432,Galerie Commerciale Geant quartier de Monthieu,Saint Etienne,42000,,0477490483,[],,true,true,sfr:04 77 49 04 83,false,,,true,fr
+shopmium,Shopmium Saint Etienne,45.4372702,4.387529499999999,12 rue du General Foy,Saint Etienne,42000,,0477491491,[],,true,true,sfr:04 77 49 14 91,false,,,true,fr
+shopmium,Shopmium Firminy,45.3884921,4.286810099999999,3 place du Breuil,Firminy,42700,,0477614855,[],,true,true,sfr:04 77 61 48 55,false,,,true,fr
+shopmium,Shopmium Villars,45.4751884,4.3506677,c.cial Auchan Portes du Forez chemin Montravel,Villars,42390,,0477839741,[],,true,true,sfr:04 77 83 97 41,false,,,true,fr
+shopmium,Shopmium Lyon,45.7451441,4.8673424,71 av des Freres Lumiere,Lyon,69008,,0478090895,[],,true,true,sfr:04 78 09 08 95,false,,,true,fr
+shopmium,Shopmium Lyon,45.7691889,4.8472484,29 cours Franklin Roosevelt,Lyon,69006,,0478177991,[],,true,true,sfr:04 78 17 79 91,false,,,true,fr
+shopmium,Shopmium Caluire Et Cuire,45.79681,4.842426,c.cial Auchan Caluire 2,Caluire Et Cuire,69300,,0478235096,[],,true,true,sfr:04 78 23 50 96,false,,,true,fr
+shopmium,Shopmium Lyon,45.75826,4.855386999999999,c.cial cours Oxygene angle bd V Merle Et rue de Bon,Lyon,69003,,0478245229,[],,true,true,sfr:04 78 24 52 29,false,,,true,fr
+shopmium,Shopmium Vaulx En Velin,45.782029,4.922661,c.cial Carrefour les 7 Chemins,Vaulx En Velin,69120,,0478265756,[],,true,true,sfr:04 78 26 57 56,false,,,true,fr
+shopmium,Shopmium Lyon,45.7779263,4.8324913,26 Grande rue de la Croix Rousse,Lyon,69004,,0478270864,[],,true,true,sfr:04 78 27 08 64,false,,,true,fr
+shopmium,Shopmium Lyon,45.759732,4.8356121,63 rue de la Republique,Lyon,69002,,0478370256,[],,true,true,sfr:04 78 37 02 56,false,,,true,fr
+shopmium,Shopmium Lyon,45.7527482,4.8293317,49 rue Victor Hugo,Lyon,69002,,0478381022,[],,true,true,sfr:04 78 38 10 22,false,,,true,fr
+shopmium,Shopmium Beynost,45.83981199999999,5.001999,c.cial Beynost Ii 56 rue Stand,Beynost,01700,,0478551381,[],,true,true,sfr:04 78 55 13 81,false,,,true,fr
+shopmium,Shopmium St Genis Laval,45.6806912,4.7922443,c.cial Auchan St Genis 2 av Charles de Gaulle,St Genis Laval,69230,,0478577953,[],,true,true,sfr:04 78 57 79 53,false,,,true,fr
+shopmium,Shopmium Lyon,45.75826,4.855386999999999,c.cial Lyon Part Dieu bd V. Merle,Lyon,69003,,0478609344,[],,true,true,sfr:04 78 60 93 44,false,,,true,fr
+shopmium,Shopmium Albertville,45.662967,6.3997371,c.cial Geant Albertville N90,Albertville,73200,,0479100244,[],,true,true,sfr:04 79 10 02 44,false,,,true,fr
+shopmium,Shopmium Chambery,45.5951113,5.899988899999999,av des Landiers,Chambery,73000,,0479253007,[],,true,true,sfr:04 79 25 30 07,false,,,true,fr
+shopmium,Shopmium Chambery,45.5668602,5.9192471,place de Geneve,Chambery,73000,,0479707475,[],,true,true,sfr:04 79 70 74 75,false,,,true,fr
+shopmium,Shopmium Aix Les Bains,45.689662,5.9138842,7 place Carnot,Aix Les Bains,73100,,0479888526,[],,true,true,sfr:04 79 88 85 26,false,,,true,fr
+shopmium,Shopmium Marseille,43.2963839,5.3777213,40 la Canebiere,Marseille,13001,,0484523010,[],,true,true,sfr:04 84 52 30 10,false,,,true,fr
+shopmium,Shopmium Apt,43.879433,5.3852083,669 av Victor Hugo,Apt,84400,,0490048925,[],,true,true,sfr:04 90 04 89 25,false,,,true,fr
+shopmium,Shopmium Pertuis,43.6791637,5.4991666,1093 route d'Aix En Provence,Pertuis,84120,,0490091014,[],,true,true,sfr:04 90 09 10 14,false,,,true,fr
+shopmium,Shopmium Les Angles,43.954465,4.77358,c.cial Leclerc Grand Angles,Les Angles,30133,,0490258900,[],,true,true,sfr:04 90 25 89 00,false,,,true,fr
+shopmium,Shopmium Le Pontet,43.9591489,4.863830999999999,c.cial Auchan ZAC St Tronquet av Louis Braille Entrée N°3,Le Pontet,84130,,0490337904,[],,true,true,sfr:04 90 33 79 04,false,,,true,fr
+shopmium,Shopmium Arles,43.6017739,4.624375100000001,c.cial Geant Casino ZA Fourchon,Arles,13200,,0490479203,[],,true,true,sfr:04 90 47 92 03,false,,,true,fr
+shopmium,Shopmium Arles,43.6752902,4.6277191,22 bd des Lices,Arles,13200,,0490494990,[],,true,true,sfr:04 90 49 49 90,false,,,true,fr
+shopmium,Shopmium Salon De Provence,43.640199,5.097022,c.cial Leclerc les Viougues,Salon De Provence,13300,,0490550550,[],,true,true,sfr:04 90 55 05 50,false,,,true,fr
+shopmium,Shopmium Salon De Provence,43.6407494,5.0962575,85 cours Carnot,Salon De Provence,13300,,0490563380,[],,true,true,sfr:04 90 56 33 80,false,,,true,fr
+shopmium,Shopmium Orange,44.1380989,4.807511,Galerie Commerciale Carrefour ZAC du Cordoulet,Orange,84100,,0490602740,[],,true,true,sfr:04 90 60 27 40,false,,,true,fr
+shopmium,Shopmium Bollene,44.280508,4.748965999999999,c.cial quartier les Servattes,Bollene,84500,,0490605098,[],,true,true,sfr:04 90 60 50 98,false,,,true,fr
+shopmium,Shopmium Carpentras,44.0500901,5.0396397,307 av FrÉdÉric Mistral,Carpentras,84200,,0490670886,[],,true,true,sfr:04 90 67 08 86,false,,,true,fr
+shopmium,Shopmium Cavaillon,43.83636629999999,5.0403762,36 place Gambetta,Cavaillon,84300,,0490762674,[],,true,true,sfr:04 90 76 26 74,false,,,true,fr
+shopmium,Shopmium Avignon,43.947978,4.805884799999999,11 rue de la Republique,Avignon,84000,,0490850339,[],,true,true,sfr:04 90 85 03 39,false,,,true,fr
+shopmium,Shopmium Avignon,43.948469,4.815815,Galerie Commerciale Mistral 7 N7,Avignon,84000,,0490884273,[],,true,true,sfr:04 90 88 42 73,false,,,true,fr
+shopmium,Shopmium Marseille,43.33394089999999,5.4554903,c.cial la Croix Rouge bd Marcel Delprat,Marseille,13013,,0491053636,[],,true,true,sfr:04 91 05 36 36,false,,,true,fr
+shopmium,Shopmium Marseille,43.2676237,5.3891919,74 av de Mazargues,Marseille,13008,,0491220505,[],,true,true,sfr:04 91 22 05 05,false,,,true,fr
+shopmium,Shopmium Marseille,43.2806329,5.3870766,105 av du Prado,Marseille,13008,,0491255544,[],,true,true,sfr:04 91 25 55 44,false,,,true,fr
+shopmium,Shopmium Marseille,43.3039184,5.4172426,93 rue Montaigne,Marseille,13012,,0491340036,[],,true,true,sfr:04 91 34 00 36,false,,,true,fr
+shopmium,Shopmium Marseille,43.2990873,5.4804319,252 route des 3 Lucs,Marseille,13011,,0491431891,[],,true,true,sfr:04 91 43 18 91,false,,,true,fr
+shopmium,Shopmium Marseille,43.2925914,5.479430199999999,Galerie Ciale Printemps la Valentine route Sabliere,Marseille,13011,,0491442005,[],,true,true,sfr:04 91 44 20 05,false,,,true,fr
+shopmium,Shopmium Marseille,43.2886922,5.3822337,159 rue de Rome,Marseille,13006,,0491487767,[],,true,true,sfr:04 91 48 77 67,false,,,true,fr
+shopmium,Shopmium Marseille,43.3640097,5.3491449,c.cial Grand Littoral 11 av Saint Antoine,Marseille,13016,,0491605858,[],,true,true,sfr:04 91 60 58 58,false,,,true,fr
+shopmium,Shopmium Marseille,43.2487572,5.389538,c.cial Bonneveine 112 av Hambourg,Marseille,13008,,0491720343,[],,true,true,sfr:04 91 72 03 43,false,,,true,fr
+shopmium,Shopmium Marseille,43.2925914,5.479430199999999,Galerie Cial Geant Entree Droite route de la Sabliere,Marseille,13011,,0491886336,[],,true,true,sfr:04 91 88 63 36,false,,,true,fr
+shopmium,Shopmium Marseille,43.300771,5.3821768,Fnac Cial Bourse,Marseille,13001,,0491906702,[],,true,true,sfr:04 91 90 67 02,false,,,true,fr
+shopmium,Shopmium Menton,43.774481,7.497540000000001,Promenade du Soleil angle bd Saint Roh,Menton,06500,,0492101097,[],,true,true,sfr:04 92 10 10 97,false,,,true,fr
+shopmium,Shopmium Gap,44.559638,6.079758,c.cial Leclerc,Gap,05000,,0492200090,[],,true,true,sfr:04 92 20 00 90,false,,,true,fr
+shopmium,Shopmium Briancon,44.8965125,6.6349607,1 rue Centrale,Briancon,05100,,0492210189,[],,true,true,sfr:04 92 21 01 89,false,,,true,fr
+shopmium,Shopmium Nice,43.6877482,7.2113605,c.cial Nice Lingostiere RN 202 route Digne,Nice,06200,,0492291414,[],,true,true,sfr:04 92 29 14 14,false,,,true,fr
+shopmium,Shopmium Antibes,43.5990157,7.103639599999999,quartier des Semboules 1668 Chemins des Terriers,Antibes,06600,,0492384030,[],,true,true,sfr:04 92 38 40 30,false,,,true,fr
+shopmium,Shopmium Gap,44.559825,6.0799487,28 rue Peroliere,Gap,05000,,0492560290,[],,true,true,sfr:04 92 56 02 90,false,,,true,fr
+shopmium,Shopmium Manosque,43.8307106,5.7848354,19/21 av Jean Giono,Manosque,04100,,0492721700,[],,true,true,sfr:04 92 72 17 00,false,,,true,fr
+shopmium,Shopmium Antibes,43.5804731,7.1221197,2 bis rue de la Republique,Antibes,06600,,0492906110,[],,true,true,sfr:04 92 90 61 10,false,,,true,fr
+shopmium,Shopmium Grasse,43.6379658,6.9505732,118 route de Cannes,Grasse,06130,,0492906111,[],,true,true,sfr:04 92 90 61 11,false,,,true,fr
+shopmium,Shopmium Saint Laurent Du Var,43.673417,7.189811,c.cial Cap 3000 Rdc Local 98 quartier du Lac Porte de Nice,Saint Laurent Du Var,06700,,0493070750,[],,true,true,sfr:04 93 07 07 50,false,,,true,fr
+shopmium,Shopmium Nice,43.7067211,7.264240099999999,8 av Malaussena,Nice,06000,,0493138863,[],,true,true,sfr:04 93 13 88 63,false,,,true,fr
+shopmium,Shopmium Nice,43.706449,7.2922646,44 bis av de la Republique angle de la rue Barla,Nice,06300,,0493143024,[],,true,true,sfr:04 93 14 30 24,false,,,true,fr
+shopmium,Shopmium Nice,43.70653040000001,7.286276299999999,c.cial Tnl 15 bd General Louis Delfino,Nice,06300,,0493267201,[],,true,true,sfr:04 93 26 72 01,false,,,true,fr
+shopmium,Shopmium Cannes La Bocca,43.549345,6.9763455,95 av Francis Tonner,Cannes La Bocca,06150,,0493483900,[],,true,true,sfr:04 93 48 39 00,false,,,true,fr
+shopmium,Shopmium Mandelieu,43.546232,6.938308999999999,c.cial des Tourrades N7 av St Exupery allée H Boucher,Mandelieu,06210,,0493496294,[],,true,true,sfr:04 93 49 62 94,false,,,true,fr
+shopmium,Shopmium Mandelieu La Napoule,43.525134,6.916614999999999,c.cial Geant route de Frejus,Mandelieu La Napoule,06210,,0493497892,[],,true,true,sfr:04 93 49 78 92,false,,,true,fr
+shopmium,Shopmium La Trinite,43.7429385,7.3182559,c.cial Auchan Local No 107 route de Laghet,La Trinite,06340,,0493549501,[],,true,true,sfr:04 93 54 95 01,false,,,true,fr
+shopmium,Shopmium Nice,43.705252,7.264757700000001,c.cial Etoile 30 av Jean Medecin,Nice,06000,,0493622222,[],,true,true,sfr:04 93 62 22 22,false,,,true,fr
+shopmium,Shopmium Antibes,43.5993533,7.086051599999999,2015 route de Grasse,Antibes,06600,,0493659595,[],,true,true,sfr:04 93 65 95 95,false,,,true,fr
+shopmium,Shopmium Nice,43.6960355,7.265589599999998,c.cial Leclerc St Isidore RD 6202,Nice,06000,,0493719587,[],,true,true,sfr:04 93 71 95 87,false,,,true,fr
+shopmium,Shopmium Nice,43.6975744,7.2672117,13 rue Massena,Nice,06000,,0493820770,[],,true,true,sfr:04 93 82 07 70,false,,,true,fr
+shopmium,Shopmium Nice,43.70355259999999,7.2663006,48 av Jean Medecin,Nice,06000,,0493850302,[],,true,true,sfr:04 93 85 03 02,false,,,true,fr
+shopmium,Shopmium Cannes,43.5528264,7.0239018,Fnac 83 rue d'Antibes,Cannes,06400,,0493990356,[],,true,true,sfr:04 93 99 03 56,false,,,true,fr
+shopmium,Shopmium Hyeres,43.107465,6.131492799999999,c.cial Geant Centr'azur,Hyeres,83400,,0494006900,[],,true,true,sfr:04 94 00 69 00,false,,,true,fr
+shopmium,Shopmium La Garde,43.136121,6.0254064,Carrefour des 4 Chemins,La Garde,83130,,0494080203,[],,true,true,sfr:04 94 08 02 03,false,,,true,fr
+shopmium,Shopmium Hyeres,43.1200436,6.1282045,6 av Gambetta,Hyeres,83400,,0494127296,[],,true,true,sfr:04 94 12 72 96,false,,,true,fr
+shopmium,Shopmium Lavandou,43.1379347,6.367744099999999,7 av du General de Gaulle,Lavandou,83980,,0494221463,[],,true,true,sfr:04 94 22 14 63,false,,,true,fr
+shopmium,Shopmium Toulon,43.12489,5.931230299999999,13 bd de Strasbourg,Toulon,83000,,0494243945,[],,true,true,sfr:04 94 24 39 45,false,,,true,fr
+shopmium,Shopmium La Seyne Sur Mer,43.102976,5.878219,Galerie Ciale c.cial Auchan RN 63 quartier Levy,La Seyne Sur Mer,83500,,0494290140,[],,true,true,sfr:04 94 29 01 40,false,,,true,fr
+shopmium,Shopmium Saint Raphael,43.4231393,6.7678902,1 place Pierre Coullet,Saint Raphael,83700,,0494405032,[],,true,true,sfr:04 94 40 50 32,false,,,true,fr
+shopmium,Shopmium Toulon,43.1146883,5.9488975,c.cial Mayol,Toulon,83000,,0494415100,[],,true,true,sfr:04 94 41 51 00,false,,,true,fr
+shopmium,Shopmium Puget Sur Argens,43.455329,6.68408,c.cial Carrefour quartier les Salles RN 7,Puget Sur Argens,83480,,0494459288,[],,true,true,sfr:04 94 45 92 88,false,,,true,fr
+shopmium,Shopmium Sainte Maxime,43.310184,6.640482,angle rue Jean JaurÈs Et FÉlix Martin,Sainte Maxime,83120,,0494493580,[],,true,true,sfr:04 94 49 35 80,false,,,true,fr
+shopmium,Shopmium Draguignan,43.5377269,6.464993,c.cial Carrefour le Salamendrier ZI Saint Hermentaires,Draguignan,83300,,0494504014,[],,true,true,sfr:04 94 50 40 14,false,,,true,fr
+shopmium,Shopmium Cogolin,43.2501423,6.540642399999999,71 av de Clemenceau,Cogolin,83310,,0494540669,[],,true,true,sfr:04 94 54 06 69,false,,,true,fr
+shopmium,Shopmium La Valette Du Var,43.140797,6.01559,c.cial Grand Var,La Valette Du Var,83160,,0494611903,[],,true,true,sfr:04 94 61 19 03,false,,,true,fr
+shopmium,Shopmium Brignoles,43.40655,6.061186999999999,c.cial Leclerc ZAC de Saint Jean,Brignoles,83170,,0494725818,[],,true,true,sfr:04 94 72 58 18,false,,,true,fr
+shopmium,Shopmium Ollioules,43.13990099999999,5.847652,c.cial Carrefour Local N°37 quartier Quiez chemin Communal N°7,Ollioules,83190,,0494879752,[],,true,true,sfr:04 94 87 97 52,false,,,true,fr
+shopmium,Shopmium Gassin,43.228355,6.585578,c.cial la Foux,Gassin,83580,,0494962359,[],,true,true,sfr:04 94 96 23 59,false,,,true,fr
+shopmium,Shopmium Saint Tropez,43.269556,6.6394744,9 bd Louis Blanc,Saint Tropez,83990,,0494970615,[],,true,true,sfr:04 94 97 06 15,false,,,true,fr
+shopmium,Shopmium Marseille,43.2970607,5.377011899999999,6/8 rue Bir Hakeim,Marseille,13001,,0495093990,[],,true,true,sfr:04 95 09 39 90,false,,,true,fr
+shopmium,Shopmium Ajaccio,41.919229,8.738635,c.cial Geant Mezzavia la rocade,Ajaccio,20000,,0495201515,[],,true,true,sfr:04 95 20 15 15,false,,,true,fr
+shopmium,Shopmium Bastia,42.695179,9.446923,39 bd Paoli,Bastia,20200,,0495305030,[],,true,true,sfr:04 95 30 50 30,false,,,true,fr
+shopmium,Shopmium Furiani,42.6579849,9.414215,c.cial la rocade RN 193,Furiani,20600,,0495305530,[],,true,true,sfr:04 95 30 55 30,false,,,true,fr
+shopmium,Shopmium Corte,42.3015972,9.1550608,c.cial Super Casino allée du 9 Septembre,Corte,20250,,0495344434,[],,true,true,sfr:04 95 34 44 34,false,,,true,fr
+shopmium,Shopmium Ajaccio,41.9243583,8.737904200000001,60 cours Napoleon,Ajaccio,20000,,0495500642,[],,true,true,sfr:04 95 50 06 42,false,,,true,fr
+shopmium,Shopmium Ajaccio,41.9207157,8.7371729,22 cours Napoleon,Ajaccio,20000,,0495505194,[],,true,true,sfr:04 95 50 51 94,false,,,true,fr
+shopmium,Shopmium Porto Vecchio,41.591369,9.278311,c.cial Geant quartier la Foret,Porto Vecchio,20137,,0495720202,[],,true,true,sfr:04 95 72 02 02,false,,,true,fr
+shopmium,Shopmium Propriano,41.6738915,8.901759199999999,c.cial Casino,Propriano,20110,,0495768773,[],,true,true,sfr:04 95 76 87 73,false,,,true,fr
+shopmium,Shopmium Cannes,43.5603151,7.0337141,5 rue d'Antibes A Modifier,Cannes,06400,,0497063211,[],,true,true,sfr:04 97 06 32 11,false,,,true,fr
+shopmium,Shopmium Draguignan,43.5377269,6.464993,19 rue Charles Cisson,Draguignan,83300,,0498102598,[],,true,true,sfr:04 98 10 25 98,false,,,true,fr
+shopmium,Shopmium Frejus,43.43315200000001,6.737034,c.cial Geant 911 rue Jean Carrar,Frejus,83600,,0498125888,[],,true,true,sfr:04 98 12 58 88,false,,,true,fr
+shopmium,Shopmium Agde,43.3102866,3.484586,ZAC Intermarche av Sete,Agde,34300,,0499410950,[],,true,true,sfr:04 99 41 09 50,false,,,true,fr
+shopmium,Shopmium Lunel,43.67445,4.135365999999999,c.cial les Portes de la Mer route de Nimes,Lunel,34400,,0499546755,[],,true,true,sfr:04 99 54 67 55,false,,,true,fr
+shopmium,Shopmium Saint Jean De Vedas,43.5686528,3.8497791,Galerie Commerciale Carrefour route de Sete,Saint Jean De Vedas,34430,,0499920679,[],,true,true,sfr:04 99 92 06 79,false,,,true,fr
+shopmium,Shopmium Toulouse Cedex,43.60828,1.447133,Fnac 77 rue Alsace Lorraine,Toulouse,31000,,0534335659,[],,true,true,sfr:05 34 33 56 59,false,,,true,fr
+shopmium,Shopmium Toulouse,43.6049577,1.4446479,21 rue Lafayette,Toulouse,31000,,0534441288,[],,true,true,sfr:05 34 44 12 88,false,,,true,fr
+shopmium,Shopmium Muret,43.46085850000001,1.325241,5 place de la Paix,Muret,31600,,0534461828,[],,true,true,sfr:05 34 46 18 28,false,,,true,fr
+shopmium,Shopmium Colomiers,43.6110945,1.3320251,24 rue du Centre,Colomiers,31770,,0534505344,[],,true,true,sfr:05 34 50 53 44,false,,,true,fr
+shopmium,Shopmium Saint Orens De Gameville,43.5664029,1.5191982,c.cial Leclerc Saint Orens,Saint Orens De Gameville,31650,,0534663385,[],,true,true,sfr:05 34 66 33 85,false,,,true,fr
+shopmium,Shopmium Angouleme,45.6483103,0.1591218,39/41 rue Herge,Angouleme,16000,,0545228121,[],,true,true,sfr:05 45 22 81 21,false,,,true,fr
+shopmium,Shopmium Cognac,45.69416,-0.3258913,24 rue d'Angouleme,Cognac,16100,,0545355888,[],,true,true,sfr:05 45 35 58 88,false,,,true,fr
+shopmium,Shopmium Champniers,45.7148899,0.205213,c.cial Angouleme Nord RN 10 les Grands Chaumes Local 43/44,Champniers,16430,,0545374747,[],,true,true,sfr:05 45 37 47 47,false,,,true,fr
+shopmium,Shopmium La Couronne,45.616632,0.102983,c.cial Auchan route de Bordeaux,La Couronne,16400,,0545968326,[],,true,true,sfr:05 45 96 83 26,false,,,true,fr
+shopmium,Shopmium Puilboreau,46.175702,-1.115695,c.cial Carrefour ZAC de Beaulieu,Puilboreau,17138,,0546009588,[],,true,true,sfr:05 46 00 95 88,false,,,true,fr
+shopmium,Shopmium Angoulins Sur Mer,46.1053521,-1.1094239,c.cial Carrefour Angoulins N137,Angoulins Sur Mer,17690,,0546071777,[],,true,true,sfr:05 46 07 17 77,false,,,true,fr
+shopmium,Shopmium Royan,45.6247324,-1.0237229,5 cours de l Europe,Royan,17200,,0546222500,[],,true,true,sfr:05 46 22 25 00,false,,,true,fr
+shopmium,Shopmium La Rochelle,46.15881,-1.1523399,10 rue du Temple,La  Rochelle,17000,,0546305600,[],,true,true,sfr:05 46 30 56 00,false,,,true,fr
+shopmium,Shopmium Saint Pierre D'oleron,45.9448166,-1.3186554,c.cial Leclerc 2 route Mirouelles,Saint Pierre D'oleron,17310,,0546854040,[],,true,true,sfr:05 46 85 40 40,false,,,true,fr
+shopmium,Shopmium Rochefort,45.9363486,-0.9609528,80 rue de la Republique,Rochefort,17300,,0546880909,[],,true,true,sfr:05 46 88 09 09,false,,,true,fr
+shopmium,Shopmium Saintes,45.7455141,-0.632968,15 rue Alsace Lorraine,Saintes,17100,,0546966767,[],,true,true,sfr:05 46 96 67 67,false,,,true,fr
+shopmium,Shopmium Saintes,45.7517523,-0.6502627,Galerie Ciale Hyper U Saintes 80 cours du Marechal Leclerc,Saintes,17100,,0546976088,[],,true,true,sfr:05 46 97 60 88,false,,,true,fr
+shopmium,Shopmium Niort,46.3254961,-0.4627607,7 rue Victor Hugo,Niort,79000,,0549081888,[],,true,true,sfr:05 49 08 18 88,false,,,true,fr
+shopmium,Shopmium Chasseneuil Du Poitou,46.650703,0.374772,c.cial Auchan Fort Maillebois route d'Arques,Chasseneuil Du Poitou,86360,,0549119775,[],,true,true,sfr:05 49 11 97 75,false,,,true,fr
+shopmium,Shopmium Loudun,47.0097496,0.08423309999999999,7/9 rue Carnot,Loudun,86200,,0549229966,[],,true,true,sfr:05 49 22 99 66,false,,,true,fr
+shopmium,Shopmium Chauray,46.341141,-0.3826405,c.cial Geant Niort Est route de Paris,Chauray,79180,,0549248164,[],,true,true,sfr:05 49 24 81 64,false,,,true,fr
+shopmium,Shopmium Poitiers,46.5751232,0.371407,c.cial Geant Beaulieu 2 av Lafayette,Poitiers,86000,,0549368458,[],,true,true,sfr:05 49 36 84 58,false,,,true,fr
+shopmium,Shopmium Poitiers,46.5808264,0.3408237,23 rue des Grandes Ecoles,Poitiers,86000,,0549450014,[],,true,true,sfr:05 49 45 00 14,false,,,true,fr
+shopmium,Shopmium Parthenay,46.652724,-0.229202,bd de l Europe,Parthenay,79200,,0549632338,[],,true,true,sfr:05 49 63 23 38,false,,,true,fr
+shopmium,Shopmium Sainte Verge,47.0076899,-0.21163,c.cial Leclerc,Sainte Verge,79100,,0549666320,[],,true,true,sfr:05 49 66 63 20,false,,,true,fr
+shopmium,Shopmium Bressuire,46.8407497,-0.4920121,31 rue Gambetta,Bressuire,79300,,0549820852,[],,true,true,sfr:05 49 82 08 52,false,,,true,fr
+shopmium,Shopmium Chatellerault,46.816487,0.548146,59 bd Blossac Aliphone,Chatellerault,86100,,0549858030,[],,true,true,sfr:05 49 85 80 30,false,,,true,fr
+shopmium,Shopmium Poitiers,46.549542,0.304194,c.cial Auchan Poitiers Sud 250 av du 8 Mai 45,Poitiers,86000,,0549886021,[],,true,true,sfr:05 49 88 60 21,false,,,true,fr
+shopmium,Shopmium Trelissac,45.196131,0.77911,c.cial la Feuilleraie,Trelissac,24750,,0553035589,[],,true,true,sfr:05 53 03 55 89,false,,,true,fr
+shopmium,Shopmium Perigueux,45.18434010000001,0.7182978999999999,15 place Bugeaud,Perigueux,24000,,0553056888,[],,true,true,sfr:05 53 05 68 88,false,,,true,fr
+shopmium,Shopmium Marmande,44.5001226,0.1668725,20 rue Charles de Gaulle,Marmande,47200,,0553209847,[],,true,true,sfr:05 53 20 98 47,false,,,true,fr
+shopmium,Shopmium Bergerac,44.8530786,0.4849813999999999,27 rue de la Resistance,Bergerac,24100,,0553235040,[],,true,true,sfr:05 53 23 50 40,false,,,true,fr
+shopmium,Shopmium Boe,44.1749628,0.6441101,c.cial Agen Boe Lot b,Boe,47550,,0553486453,[],,true,true,sfr:05 53 48 64 53,false,,,true,fr
+shopmium,Shopmium Villeneuve Sur Lot,44.4077182,0.7064249,37 rue de Paris,Villeneuve Sur Lot,47300,,0553494988,[],,true,true,sfr:05 53 49 49 88,false,,,true,fr
+shopmium,Shopmium Bergerac,44.853806,0.483392,c.cial les Rives de la Dordogne B32,Bergerac,24100,,0553572686,[],,true,true,sfr:05 53 57 26 86,false,,,true,fr
+shopmium,Shopmium Agen,44.2052741,0.6206877,88 bd de la Republique,Agen,47000,,0553772888,[],,true,true,sfr:05 53 77 28 88,false,,,true,fr
+shopmium,Shopmium Limoges,45.8947757,1.280574,31 rue Amedee Gordini,Limoges,87280,,0555037307,[],,true,true,sfr:05 55 03 73 07,false,,,true,fr
+shopmium,Shopmium Limoges,45.8308007,1.2587149,11 rue du Clocher,Limoges,87000,,0555126222,[],,true,true,sfr:05 55 12 62 22,false,,,true,fr
+shopmium,Shopmium Limoges,45.840872,1.230551,c.cial Carrefour Local 526 av du President Coty,Limoges,87100,,0555149531,[],,true,true,sfr:05 55 14 95 31,false,,,true,fr
+shopmium,Shopmium Boisseuil,45.770078,1.3308739,c.cial Carrefour route de Toulouse,Boisseuil,87220,,0555301516,[],,true,true,sfr:05 55 30 15 16,false,,,true,fr
+shopmium,Shopmium Limoges,45.8799006,1.2918737,c.cial Cora ZAC Beaubreuil,Limoges,87280,,0555357088,[],,true,true,sfr:05 55 35 70 88,false,,,true,fr
+shopmium,Shopmium Gueret,46.1694653,1.8689553,11 Grande Rue,Gueret,23000,,0555414448,[],,true,true,sfr:05 55 41 44 48,false,,,true,fr
+shopmium,Shopmium Limoges,45.83509309999999,1.2605981,c.cial St Martial 39 bis av Garibaldi,Limoges,87000,,0555777272,[],,true,true,sfr:05 55 77 72 72,false,,,true,fr
+shopmium,Shopmium Brive La Gaillarde,45.1481507,1.4889803,av Jean Charles Rivet,Brive La Gaillarde,19100,,0555861056,[],,true,true,sfr:05 55 86 10 56,false,,,true,fr
+shopmium,Shopmium Brive La Gaillarde,45.159555,1.533937,37/39 bd General Koenig les Passages,Brive La Gaillarde,19100,,0555871035,[],,true,true,sfr:05 55 87 10 35,false,,,true,fr
+shopmium,Shopmium La Souterraine,46.2383967,1.4788154,c.cial Leclerc av Jean Jaures,La Souterraine,23300,,0555891780,[],,true,true,sfr:05 55 89 17 80,false,,,true,fr
+shopmium,Shopmium Malemort Sur Correze,45.1677526,1.5623409,c.cial Geant 2 rue Pasteur,Malemort Sur Correze,19360,,0555929858,[],,true,true,sfr:05 55 92 98 58,false,,,true,fr
+shopmium,Shopmium Bordeaux,44.8375515,-0.5737835,118 rue Sainte Catherine,Bordeaux,33000,,0556005888,[],,true,true,sfr:05 56 00 58 88,false,,,true,fr
+shopmium,Shopmium Bordeaux,44.8407066,-0.5790856999999999,76 rue Porte Dijeau,Bordeaux,33000,,0556008788,[],,true,true,sfr:05 56 00 87 88,false,,,true,fr
+shopmium,Shopmium Bordeaux,44.8772685,-0.554149,Fnac c.cial Auchan Bordeaux Lac,Bordeaux,33300,,0556366689,[],,true,true,sfr:05 56 36 66 89,false,,,true,fr
+shopmium,Shopmium Langon,44.5533541,-0.2457902,60 rue Maubec,Langon,33210,,0556633340,[],,true,true,sfr:05 56 63 33 40,false,,,true,fr
+shopmium,Shopmium Bouliac,44.813891,-0.50366,c.cial Auchan lieu-dit Bonneau Local 62 Lot N,Bouliac,33270,,0556740242,[],,true,true,sfr:05 56 74 02 42,false,,,true,fr
+shopmium,Shopmium Lormont,44.880163,-0.523108,c.cial Rive Droite Galerie Marchande,Lormont,33310,,0556745888,[],,true,true,sfr:05 56 74 58 88,false,,,true,fr
+shopmium,Shopmium Begles,44.7989201,-0.5413355,c.cial Rives d'Arcins ZI chemin de Tartifume,Begles,33130,,0556752009,[],,true,true,sfr:05 56 75 20 09,false,,,true,fr
+shopmium,Shopmium Biganos,44.6384094,-0.9594624,c.cial Auchan 31 rue des Fonderies,Biganos,33380,,0556827866,[],,true,true,sfr:05 56 82 78 66,false,,,true,fr
+shopmium,Shopmium Gradignan,44.7722588,-0.6142683999999999,138 cours du General de Gaulle,Gradignan,33170,,0556898352,[],,true,true,sfr:05 56 89 83 52,false,,,true,fr
+shopmium,Shopmium Bordeaux,44.8381453,-0.5849510000000001,c.cial Auchan Meriadeck rue Claude Bonnier,Bordeaux,33000,,0556900708,[],,true,true,sfr:05 56 90 07 08,false,,,true,fr
+shopmium,Shopmium Saint Medard En Jalles,44.88380979999999,-0.6942088,Galerie Ciale Leclerc Hyper C av Descartes,Saint Medard En Jalles,33160,,0556957830,[],,true,true,sfr:05 56 95 78 30,false,,,true,fr
+shopmium,Shopmium Saint Andre De Cubzac,44.99456,-0.445865,c.cial Geant ZAC la Garosse,Saint Andre De Cubzac,33240,,0557436273,[],,true,true,sfr:05 57 43 62 73,false,,,true,fr
+shopmium,Shopmium Libourne,44.90101139999999,-0.2169948,c.cial Carrefour Verdet 118 av du General de Gaulle,Libourne,33500,,0557515207,[],,true,true,sfr:05 57 51 52 07,false,,,true,fr
+shopmium,Shopmium Arcachon,44.6610957,-1.1695416,13 cours Lamarque,Arcachon,33120,,0557720232,[],,true,true,sfr:05 57 72 02 32,false,,,true,fr
+shopmium,Shopmium Sainte Eulalie,44.908167,-0.4735129999999999,c.cial Leclerc Grand Tour chemin Departemental 911,Sainte Eulalie,33560,,0557777062,[],,true,true,sfr:05 57 77 70 62,false,,,true,fr
+shopmium,Shopmium Bordeaux Lac,44.840485,-0.574246,118 rue Sainte Catherine,Bordeaux,33000,,0557872033,[],,true,true,sfr:05 57 87 20 33,false,,,true,fr
+shopmium,Shopmium Merignac,44.8448769,-0.656358,c.cial Merignac Soleil,Merignac,33700,,0557921777,[],,true,true,sfr:05 57 92 17 77,false,,,true,fr
+shopmium,Shopmium Saint Paul Les Dax,43.724934,-1.051409,c.cial Adour Ocean,Saint Paul Les Dax,40990,,0558354988,[],,true,true,sfr:05 58 35 49 88,false,,,true,fr
+shopmium,Shopmium Mont De Marsan,43.8896995,-0.5016297,10 rue des Cordeliers,Mont De Marsan,40000,,0558515888,[],,true,true,sfr:05 58 51 58 88,false,,,true,fr
+shopmium,Shopmium Dax,43.7088706,-1.0535651,24 rue St Vincent,Dax,40100,,0558907288,[],,true,true,sfr:05 58 90 72 88,false,,,true,fr
+shopmium,Shopmium Tarnos,43.5277647,-1.4634341,52 bd Jacques Duclos,Tarnos,40220,,0559033333,[],,true,true,sfr:05 59 03 33 33,false,,,true,fr
+shopmium,Shopmium Lescar,43.333177,-0.434402,c.cial Espace 50 N117 Espace Lescar,Lescar,64230,,0559138060,[],,true,true,sfr:05 59 13 80 60,false,,,true,fr
+shopmium,Shopmium Pau,43.2951,-0.370797,Galerie Cciale Auchan Pau Avenie du General Leclerc Lot 28,Pau,64000,,0559216310,[],,true,true,sfr:05 59 21 63 10,false,,,true,fr
+shopmium,Shopmium Biarritz,43.4820618,-1.5600688,16 place Clemenceau,Biarritz,64200,,0559226348,[],,true,true,sfr:05 59 22 63 48,false,,,true,fr
+shopmium,Shopmium Bayonne,43.4910876,-1.4755325,39 rue Victor Hugo,Bayonne,64100,,0559253888,[],,true,true,sfr:05 59 25 38 88,false,,,true,fr
+shopmium,Shopmium Pau,43.2978411,-0.3701712,23 rue de Serviez,Pau,64000,,0559273842,[],,true,true,sfr:05 59 27 38 42,false,,,true,fr
+shopmium,Shopmium Oloron Sainte Marie,43.1923353,-0.6067296999999999,9 rue de la Justice,Oloron Sainte Marie,64400,,0559361581,[],,true,true,sfr:05 59 36 15 81,false,,,true,fr
+shopmium,Shopmium Bayonne,43.492949,-1.474841,Fnac 42/44 av du Marechal Soult,Bayonne,64100,,0559426497,[],,true,true,sfr:05 59 42 64 97,false,,,true,fr
+shopmium,Shopmium St Jean De Luz,43.3897183,-1.6583295,8 bd Thiers,St Jean De Luz,64500,,0559510332,[],,true,true,sfr:05 59 51 03 32,false,,,true,fr
+shopmium,Shopmium Anglet,43.48757699999999,-1.500661,Galerie c.cial Carrefour Bab 2/6 rue Leon Laporte Local B78,Anglet,64600,,0559638691,[],,true,true,sfr:05 59 63 86 91,false,,,true,fr
+shopmium,Shopmium Orthez,43.48950989999999,-0.7738899,36 rue Aristide Briand,Orthez,64300,,0559671541,[],,true,true,sfr:05 59 67 15 41,false,,,true,fr
+shopmium,Shopmium Lescar,43.3163126,-0.434184,c.cial quartier Libre Pau Lescar 180 bd de l'Europe,Lescar,64230,,0559928638,[],,true,true,sfr:05 59 92 86 38,false,,,true,fr
+shopmium,Shopmium Pau,43.2976653,-0.3696773,22/24 rue Serviez,Pau,64000,,0559984965,[],,true,true,sfr:05 59 98 49 65,false,,,true,fr
+shopmium,Shopmium Labege,43.5367334,1.5280556,c.cial Carrefour Labege 2 la Grande Borde Entree N°3,Labege,31670,,0561002717,[],,true,true,sfr:05 61 00 27 17,false,,,true,fr
+shopmium,Shopmium Tournefeuille,43.5841126,1.3444694,55 rue Gaston Doumergue,Tournefeuille,31170,,0561074086,[],,true,true,sfr:05 61 07 40 86,false,,,true,fr
+shopmium,Shopmium Toulouse,43.6080748,1.3941661,c.cial Purpan 36 route de Bayonne,Toulouse,31300,,0561165323,[],,true,true,sfr:05 61 16 53 23,false,,,true,fr
+shopmium,Shopmium Toulouse,43.6004409,1.4445905,14 place Esquirol,Toulouse,31000,,0561235888,[],,true,true,sfr:05 61 23 58 88,false,,,true,fr
+shopmium,Shopmium Pamiers,43.1032008,1.628404,Zone Ciale Leader Price route de Mirepoix,Pamiers,09100,,0561676735,[],,true,true,sfr:05 61 67 67 35,false,,,true,fr
+shopmium,Shopmium Portet Sur Garonne,43.528559,1.399535,c.cial Carrefour bd de l'Europe Entree N° 4,Portet Sur Garonne,31120,,0561720819,[],,true,true,sfr:05 61 72 08 19,false,,,true,fr
+shopmium,Shopmium Roques Sur Garonne,43.5165761,1.3768511,c.cial Leclerc 5 allée Fraixinet,Roques Sur Garonne,31120,,0561727760,[],,true,true,sfr:05 61 72 77 60,false,,,true,fr
+shopmium,Shopmium Blagnac,43.63508700000001,1.39703,c.cial Leclerc Blagnac,Blagnac,31700,,0561787264,[],,true,true,sfr:05 61 78 72 64,false,,,true,fr
+shopmium,Shopmium Saint Gaudens,43.1085695,0.7244203,43 rue de la Republique,Saint Gaudens,31800,,0562008801,[],,true,true,sfr:05 62 00 88 01,false,,,true,fr
+shopmium,Shopmium Auch,43.64638,0.5867089999999999,c.cial Leclerc Zone de Clarac Galerie Marchande,Auch,32000,,0562054573,[],,true,true,sfr:05 62 05 45 73,false,,,true,fr
+shopmium,Shopmium Lourdes,43.0948236,-0.0464291,24 place Marcadal,Lourdes,65100,,0562425735,[],,true,true,sfr:05 62 42 57 35,false,,,true,fr
+shopmium,Shopmium Auch,43.64844679999999,0.5907257,6 rue d'Alsace,Auch,32000,,0562603484,[],,true,true,sfr:05 62 60 34 84,false,,,true,fr
+shopmium,Shopmium Fenouillet,43.679151,1.392018,c.cial Geant Fenouillet N20,Fenouillet,31150,,0562759059,[],,true,true,sfr:05 62 75 90 59,false,,,true,fr
+shopmium,Shopmium Tarbes,43.2320036,0.0765361,18 rue du Marechal Foch,Tarbes,65000,,0562933350,[],,true,true,sfr:05 62 93 33 50,false,,,true,fr
+shopmium,Shopmium Montauban,44.0177769,1.3555646,15 rue de la Resistance,Montauban,82000,,0563035881,[],,true,true,sfr:05 63 03 58 81,false,,,true,fr
+shopmium,Shopmium Montauban,44.01716589999999,1.3571414,18 rue Bessieres,Montauban,82000,,0563201921,[],,true,true,sfr:05 63 20 19 21,false,,,true,fr
+shopmium,Shopmium Moissac,44.1040649,1.0845686,20 rue de la Republique,Moissac,82200,,0563324935,[],,true,true,sfr:05 63 32 49 35,false,,,true,fr
+shopmium,Shopmium Albi,43.9283471,2.1465001,26 rue Augustin Malroux,Albi,81000,,0563430066,[],,true,true,sfr:05 63 43 00 66,false,,,true,fr
+shopmium,Shopmium Albi,43.9250853,2.1486413,c.cial Geant rue Francisco Goya,Albi,81000,,0563435281,[],,true,true,sfr:05 63 43 52 81,false,,,true,fr
+shopmium,Shopmium Castres,43.59366980000001,2.2201704,27 route de Toulouse,Castres,81100,,0563590386,[],,true,true,sfr:05 63 59 03 86,false,,,true,fr
+shopmium,Shopmium Albi,43.9250853,2.1486413,Galerie Commerciale Leclerc les Portes d'Albi route de Toulous l,Albi,81000,,0563767322,[],,true,true,sfr:05 63 76 73 22,false,,,true,fr
+shopmium,Shopmium Gaillac,43.8982356,1.8960122,c.cial Leclerc route de Toulouse,Gaillac,81600,,0563814783,[],,true,true,sfr:05 63 81 47 83,false,,,true,fr
+shopmium,Shopmium Mazamet,43.498225,2.383325,ZI de la Molière,Mazamet,81200,,0563979003,[],,true,true,sfr:05 63 97 90 03,false,,,true,fr
+shopmium,Shopmium Figeac,44.6077656,2.0336986,7 rue Gambetta,Figeac,46100,,0565114176,[],,true,true,sfr:05 65 11 41 76,false,,,true,fr
+shopmium,Shopmium Cahors,44.4456234,1.441852,5 rue de l'Universite,Cahors,46000,,0565239755,[],,true,true,sfr:05 65 23 97 55,false,,,true,fr
+shopmium,Shopmium Onet Le Chateau,44.36640000000001,2.5942,ZA de l'Estreniol,Onet Le Chateau,12850,,0565429739,[],,true,true,sfr:05 65 42 97 39,false,,,true,fr
+shopmium,Shopmium Villefranche De Rouergue,44.3577445,2.0238386,102 bis av du Quercy,Villefranche De Rouergue,12200,,0565457410,[],,true,true,sfr:05 65 45 74 10,false,,,true,fr
+shopmium,Shopmium Millau,44.100552,3.0783025,10 av de la Republique,Millau,12100,,0565591680,[],,true,true,sfr:05 65 59 16 80,false,,,true,fr
+shopmium,Shopmium Rodez,44.3506991,2.5761913,22 rue Neuve,Rodez,12000,,0565682018,[],,true,true,sfr:05 65 68 20 18,false,,,true,fr
+shopmium,Shopmium Le Grand Quevilly,49.411811,1.041384,c.cial Hyper U Case No 7,Le Grand Quevilly,76120,,0967132402,[],,true,true,sfr:09 67 13 24 02,false,,,true,fr

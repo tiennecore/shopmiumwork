@@ -1,0 +1,55 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Chain:</strong>
+  <%= @shop.chain %>
+</p>
+
+<p>
+  <strong>Name:</strong>
+  <%= @shop.name %>
+</p>
+
+<p>
+  <strong>Latitude:</strong>
+  <%= @shop.latitude %>
+</p>
+
+<p>
+  <strong>Longitude:</strong>
+  <%= @shop.longitude %>
+</p>
+
+<p>
+  <strong>Adress:</strong>
+  <%= @shop.address %>
+</p>
+
+<p>
+  <strong>City:</strong>
+  <%= @shop.city %>
+</p>
+
+<p>
+  <strong>Zip:</strong>
+  <%= @shop.zip %>
+</p>
+
+<p>
+  <strong>Phone:</strong>
+  <%= @shop.phone %>
+</p>
+
+<p>
+  <strong>Country code:</strong>
+  <%= @shop.country_code %>
+</p>
+<ul>
+  <%for shop in @shop.nearbys(8)%>
+    <li><%= link_to shop.name, shop %>(<%= shop.distance.round(2)%>km)</li>
+  <% end %>
+</ul>
+<%= image_tag "https://maps.googleapis.com/maps/api/staticmap?zoom=16&size=640x400&sensor=false&markers=#{@shops.latitude}%2C#{@shops.longitude}" %>
+
+<%= link_to 'Edit', edit_shop_path(@shop) %> |
+<%= link_to 'Back', shops_path %>
